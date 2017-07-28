@@ -1,0 +1,10 @@
+body {
+  margin: 50px;
+  margin-bottom: 60px;
+  background-color: #CDCDCD;
+  background: -webkit-linear-gradient(to right, #CDCDCD, #8F6593); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #CDCDCD, #8F6593); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: #3B252C;
+  font-family: 'Roboto', sans-serif;
+}
+
