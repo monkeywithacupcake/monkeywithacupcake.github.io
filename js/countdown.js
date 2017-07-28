@@ -7,7 +7,7 @@ $(window).resize(function() {
 
 // SIGNATURE PROGRESS
 function moveProgressBar() {
-  console.log("moveProgressBar");
+    console.log("moveProgressBar");
     var getPercent = ($('.progress-wrap').data('progress-percent') / 100);
     var getProgressWrapWidth = $('.progress-wrap').width();
     var progressTotal = getPercent * getProgressWrapWidth;
