@@ -21,6 +21,13 @@ body {
     padding: 20px;
 }
 
+.help-block{
+  font-size: .8em;
+  line-height: 95%;
+  margin: 6px;
+  padding: 6px;
+}
+
 /* the countdown thermometer thing */
 
 .progress {
@@ -28,7 +35,7 @@ body {
   height: 50px;
 }
 .progress-wrap {
-  background: #f80;
+  background: #3a7f57;
   margin: 20px 0;
   overflow: hidden;
   position: relative;
