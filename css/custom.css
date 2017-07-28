@@ -33,7 +33,7 @@ body {
   overflow: hidden;
   position: relative;
 }
-.progress-bar {
+.progress-wrap .progress-bar {
     background: #ddd;
     left: 0;
     position: absolute;
