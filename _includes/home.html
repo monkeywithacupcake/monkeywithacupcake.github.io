@@ -18,8 +18,11 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
             
-            {% assign content = post.content %}
-          <div>{% include post-preview.html %}</div>
+          {% if post.title %}
+  {{ post.title }}
+  {{ post.date | date_to_string }}
+{% endif %}
+{{ post.excerpt | strip_html | truncatewords:18 }}
       </li>
     {% endfor %}
   </ul>
