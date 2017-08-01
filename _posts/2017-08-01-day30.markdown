@@ -10,17 +10,17 @@ categories: 100DaysofCode
 + Spent entirely too much time without any progress on trying to get authorized users able to see everything in a group on my iOS travel app. I'm using firebase, so I think I'll have to test out one of their example cases until I can figure out what is different.
 + I finished moving the rest of my 100 Days of Code log from Github repo to this github.io site. This included copying text from the log, but also creating some improvements on the minima jekyll theme. I updated footer and main page layouts. Set up a read timer, and added post previews to the main blog page. Still todo: add previews of codepen projects (or at least screenshots), adjust the main page to limit posts shown (maybe 10 most recent), add a category archive page, and fill in the About...
 
-    + How to add a preview of each post - I created a copy of the layouts/home.html and put it in my main site folder as _layouts/home.html. In this copy, I added `{{ post.excerpt | strip_html | truncatewords:30 }}` right after the existing title line for each post.
+    + How to add a preview of each post - I created a copy of the layouts/home.html and put it in my main site folder as _layouts/home.html. In this copy, I added ```{% raw %}{{ post.excerpt | strip_html | truncatewords:30 }}{% end raw %}``` right after the existing title line for each post.
 
     + How to add a reading time counter - I created a copy of the layouts/post.html and put it in my main site folder as _layouts/post.html. In this copy, I added this line right after the existing HTML header and before the post content. Note that I am not convinced that this is the right place to put the timing. I may move it to the main post page with the preview, so you know how long it will take before opening it up. But this is how I have it at the moment.
     
-    {% highlight %}
+    {% raw %}
         {% assign words = content | number_of_words %}
         {% if words < 270 %}
             1 min read
         {% else %} {{ words | divided_by:135 }} min read
         {% endif %}
-    {% end highlight %}
+    {% end raw %}
 
 **Thoughts**: I wish my first try would work. 
 
