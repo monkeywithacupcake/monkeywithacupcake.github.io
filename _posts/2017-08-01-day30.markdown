@@ -12,13 +12,13 @@ categories: 100DaysofCode
 
     + How to add a preview of each post - I created a copy of the layouts/home.html and put it in my main site folder as _layouts/home.html. In this copy, I added this line right after the existing title line for each post.
 
-    {% highlight liquid%}
+    {% highlight liquid %}
     {{ post.excerpt | strip_html | truncatewords:30 }}
     {% endhighlight %}
 
     + How to add a reading time counter - I created a copy of the layouts/post.html and put it in my main site folder as _layouts/post.html. In this copy, I added this line right after the existing HTML header and before the post content. Note that I am not convinced that this is the right place to put the timing. I may move it to the main post page with the preview, so you know how long it will take before opening it up. But this is how I have it at the moment.
     
-    {% highlight liquid%}
+    {% highlight liquid %}
     {% assign words = content | number_of_words %}
     {% if words < 270 %}
         1 min read
