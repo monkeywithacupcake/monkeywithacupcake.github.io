@@ -4,11 +4,6 @@ title:  "Day 12 of 100 Days of Code"
 categories: 100DaysofCode
 ---
 
-<div style = "width: 100%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
-  <div style = "width: 12%; height: 8px; background-color: #3a7f57;">
-  </div>
-</div>
-
 **Today's Progress**:
 + Read the rest of Ch 7 of [Clean Code by Robert Martin](http://amzn.to/2sOXBuy). 
 + Finished **Day 9 of 30daysofCode** on [Hacker Rank](http://www.hackerrank.com). I also solved one more implementation algorithm today, so my algorithm rank is now *127846*, still improving (*I was at 136019 yesterday*). I hit a real wall today because I could not figure out how to optimize a recursive function. 
@@ -19,4 +14,3 @@ categories: 100DaysofCode
 
 **Link to work:**[Current Recursion Problem](https://code.sololearn.com/cjzn3J5TFNH1)
 
-{% include twitter_end.html %}

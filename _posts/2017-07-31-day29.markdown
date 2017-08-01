@@ -4,12 +4,6 @@ title:  "Day 29 of 100 Days of Code"
 categories: 100DaysofCode
 ---
 
-<div style = "width: 100%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
-  <div style = "width: 29%; height: 8px; background-color: #3a7f57;">
-  </div>
-</div>
-
-
 **Today's Progress**:
 + Finished *Day 26 of 30daysofCode* on [Hacker Rank](http://www.hackerrank.com). My algorithm rank today is *35,270*. I am currently stuck on how to speed up a count of shifts in an insertion sort - I'm using a binary inversion tree but still timing out on some test cases.
 + Broke [Free Code Camp](https://www.freecodecamp.com) with whatever I did on Challenge 271. I sent an email. Hopefully, it is fixable. 
@@ -30,20 +24,8 @@ body {
   background: linear-gradient(to right, #EEEBD3, #f7c59f ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   color: #3a7f57;
 }
-
-pre, code { font-size: .8em; border: 1px solid #e8e8e8; border-radius: 3px; background-color: #EEEBD3; }
-
-a,
-a.link,
-a:hover,
-a:visited{
-	color: #ff6b35;
-}
 {% endhighlight %}
 
 **Thoughts**: I really like the simplicity and clean screen working with markdown rather than html for sites. 
 
 **Link to work:**  [monkeywithacupcake.github.io](https://monkeywithacupcake.github.io)
-
-
-{% include twitter_end.html %}

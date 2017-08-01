@@ -4,12 +4,6 @@ title:  "Day 28 of 100 Days of Code"
 categories: 100DaysofCode
 ---
 
-<div style = "width: 100%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
-  <div style = "width: 28%; height: 8px; background-color: #3a7f57;">
-  </div>
-</div>
-
-
 **Today's Progress**:
 + Finished **Day 25 of 30daysofCode** on [Hacker Rank](http://www.hackerrank.com). I didn't even look at my algorithm rank today.
 + Finished Clean Code by Robert Martin - I liked the first part of the book better than the last part.

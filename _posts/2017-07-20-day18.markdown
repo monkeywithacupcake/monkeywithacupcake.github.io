@@ -4,11 +4,6 @@ title:  "Day 18 of 100 Days of Code"
 categories: 100DaysofCode
 ---
 
-<div style = "width: 100%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
-  <div style = "width: 18%; height: 8px; background-color: #3a7f57;">
-  </div>
-</div>
-
 **Today's Progress**:
 + Finished **Day 15 of 30daysofCode** on [Hacker Rank](http://www.hackerrank.com), and I solved an algorithm, so my algorithm rank is now *75845*, better than yesterday (*77499*).
 + Finished **Day 3 of Week of Code 34** also on [Hacker Rank](http://www.hackerrank.com). Blargh. My functions timed out on most of the test cases. Not sure how to improve them, and I can't post the code because it is a challenge.  
@@ -21,4 +16,3 @@ categories: 100DaysofCode
 
 **Link to work:**  [Weather App in Dev](https://codepen.io/jessachandler/pen/qjeWRM) and [Random Quote Machine](https://codepen.io/jessachandler/pen/dREOmP)
 
-{% include twitter_end.html %}

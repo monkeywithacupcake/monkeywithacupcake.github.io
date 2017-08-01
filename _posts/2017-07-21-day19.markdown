@@ -4,11 +4,6 @@ title:  "Day 19 of 100 Days of Code"
 categories: 100DaysofCode
 ---
 
-<div style = "width: 100%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
-  <div style = "width: 19%; height: 8px; background-color: #3a7f57;">
-  </div>
-</div>
-
 **Today's Progress**:
 + Finished **Day 16 of 30daysofCode** on [Hacker Rank](http://www.hackerrank.com), and I solved a couple of algorithms, so my algorithm rank is now *65004*, quite a bit better than yesterday (*75845*).
 + Tried but never succeeded with problem for **Day 4 of Week of Code 34** also on [Hacker Rank](http://www.hackerrank.com). Blargh. I struggled with understanding the problem until I ran out of the time that I was willing to commit to this.  
@@ -20,4 +15,3 @@ categories: 100DaysofCode
 
 **Link to work:**  [Weather App in Dev](https://codepen.io/jessachandler/pen/qjeWRM) 
 
-{% include twitter_end.html %}

@@ -4,11 +4,6 @@ title:  "Day 17 of 100 Days of Code"
 categories: 100DaysofCode
 ---
 
-<div style = "width: 100%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
-  <div style = "width: 17%; height: 8px; background-color: #3a7f57;">
-  </div>
-</div>
-
 **Today's Progress**:
 + Finished **Day 14 of 30daysofCode** on [Hacker Rank](http://www.hackerrank.com), but I didn't solve any algorithms, so my algorithm rank is now *77499*, worse than yesterday (*77393*).
 + Finished **Day 1 and 2 of Week of Code 34** also on [Hacker Rank](http://www.hackerrank.com). The first one was easy, the day 2 part took me several iterations to not timeout almost all of the test cases. Now, I'm down to about half of them.  
@@ -19,4 +14,3 @@ categories: 100DaysofCode
 
 **Link to work:** None to share today.
 
-{% include twitter_end.html %}
