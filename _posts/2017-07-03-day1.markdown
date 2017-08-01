@@ -4,12 +4,6 @@ title:  "Day 1 of 100 Days of Code"
 categories: 100DaysofCode
 ---
 
-<div style = "width: 100%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
-  <div style = "width: 1%; height: 8px; background-color: #3a7f57;">
-  </div>
-</div>
-
-
 **Today's Progress**:
 + Joined the #100DaysofCode challenge and posted on twitter my short lament about not starting 99 days ago. It’s like the real life fulfillment of that quote, “A year from now, you will have wished you started today.” 
 + Began working on challenges in [Free Code Camp]( https://www.freecodecamp.org)  so that I can certify to help nonprofits with coding needs. So far, I am just flying through some simple HTML and CSS, but it is required for the front end development certification…which is also required for being able to help any non-profits. In my mind, this just means that I need to set aside 30 minutes per day to make progress on it. 

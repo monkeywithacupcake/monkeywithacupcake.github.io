@@ -4,11 +4,6 @@ title:  "Day 4 of 100 Days of Code"
 categories: 100DaysofCode
 ---
 
-<div style = "width: 100%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
-  <div style = "width: 4%; height: 8px; background-color: #3a7f57;">
-  </div>
-</div>
-
 **Today's Progress**: 
 +  Completely overhauled iOS application to allow for adding and deleting trips without duplicating code or exposing the model to the view. I’m super excited that it is working and quickly!
 +  Started Chapter 3 of [Clean Code by Robert Martin](http://amzn.to/2sOXBuy). This chapter is on functions, and it is rather difficult to follow on the kindle. I’m going to try to finish reading it using the web version of the cloud reader so that I can follow the functions; they break up too much on the kindle reader. So far, I like the discussion of ensuring that each function is small enough that you can fit its descriptor in a “to” clause.
