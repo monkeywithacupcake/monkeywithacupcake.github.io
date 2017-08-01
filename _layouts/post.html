@@ -16,9 +16,9 @@ layout: default
   </header>
     {% assign words = content | number_of_words %}
     {% if words < 270 %}
-        1 min
+        1 min read
     {% else %}
-        {{ words | divided_by:135 }} mins
+        {{ words | divided_by:135 }} min read
     {% endif %}
                    
   <div class="post-content" itemprop="articleBody">
