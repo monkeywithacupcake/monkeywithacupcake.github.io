@@ -32,3 +32,14 @@ a:visited{
   width:         calc(55% - (#{$spacing-unit} / 2));
 }
 
+.site-title {
+    font-size: 2em;
+    font-weight: 300;
+    line-height: 54px;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    float: left;
+}
+.site-title:visited{
+    color: #3a7f57;
+}
