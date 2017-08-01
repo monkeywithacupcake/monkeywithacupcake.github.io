@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Day 14 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+<div style = "width: 100%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
+  <div style = "width: 14%; height: 8px; background-color: #3a7f57;">
+  </div>
+</div>
+
+**Today's Progress**:
++ Finished **Day 11 of 30daysofCode** on [Hacker Rank](http://www.hackerrank.com), and I solved some sorting and string algorithms today, so my algorithm rank is now *83041*, which is better than yesterday (*128046*).
++ Completed the rest of Basic Algorithm Scripting challenges in [Free Code Camp]( https://www.freecodecamp.org). I’m currently at challenge 248. Since I spent a lot of time today on sorting functions, I chose not to jump into JSON and Ajax today. 
++ Read Ch 8 of [Clean Code by Robert Martin](http://amzn.to/2sOXBuy). 
+
+**Thoughts**: I really dug into sorting functions today, learning about different reasons to go with algorithms based on the parameters of the goal. Every time I dig deep into the theory behind functions, I understand a little bit more about the limitations of brute force approaches and benefits of elegant code. That "useless" numerical methods class is starting to seem relevant. 
+
+**Link to work:** None
+
+{% include twitter_end.html %}

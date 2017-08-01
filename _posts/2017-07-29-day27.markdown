@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Day 27 of 100 Days of Code"
+categories: 100DaysofCode
+---
+<div style = "width: 100%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
+  <div style = "width: 27%; height: 8px; background-color: #3a7f57;">
+  </div>
+</div>
+
+
+**Today's Progress**:
++ Finished **Day 24 of 30daysofCode** on [Hacker Rank](http://www.hackerrank.com), and I solved an algorithm, so my algorithm rank is now *36869*, better than yesterday (*38002*). 
++ Solved two of the Intermediate Algorithm Scripting Challenges for [Free Code Camp]( https://www.freecodecamp.org) - I'm currently on challenge 271.
++ Read more about static site generation and incorporating custom design into themes for jekyll 
+
+**Thoughts**: I spent most of the day outside, so I felt a little rushed through the coding I wanted to do today. I'm happy that I got it done.  
+
+**Link to work:**  None

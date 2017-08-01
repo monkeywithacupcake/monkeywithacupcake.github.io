@@ -1,0 +1,34 @@
+---
+#main.css
+---
+
+@import "minima";
+
+body {
+  margin: 50px;
+  margin-bottom: 60px;
+  background-color: #EEEBD3;
+  background: -webkit-linear-gradient(to right, #EEEBD3, #f7c59f ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #EEEBD3, #f7c59f ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: #3a7f57;
+}
+
+pre, code { font-size: .8em; border: 1px solid #e8e8e8; border-radius: 3px; background-color: #EEEBD3; }
+
+a,
+a.link,
+a:hover,
+a:visited{
+	color: #ff6b35;
+}
+
+.footer-col-1 {
+  width: -webkit-calc(45% - (#{$spacing-unit} / 2));
+  width:         calc(45% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-2 {
+  width: -webkit-calc(55% - (#{$spacing-unit} / 2));
+  width:         calc(55% - (#{$spacing-unit} / 2));
+}
+

@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Day 16 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+<div style = "width: 100%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
+  <div style = "width: 16%; height: 8px; background-color: #3a7f57;">
+  </div>
+</div>
+
+**Today's Progress**:
++ Finished **Day 13 of 30daysofCode** on [Hacker Rank](http://www.hackerrank.com), and I solved another algorithm today, so my algorithm rank is now *77393*, better than yesterday (*83151*).
++ Completed the first Intermediate Front End Development project on [Free Code Camp]( https://www.freecodecamp.org). I’m currently at challenge 256.  
++ Came up with a new list of improvements for my Hats iOS application.
++ Read Ch 9 of [Clean Code by Robert Martin](http://amzn.to/2sOXBuy).
+
+**Thoughts**: Javascript always seemed unnecessary for what I wanted to do, but that must have been some kind of wishful thinking. Javascript substantially improves functionality for the ideas that I have. 
+
+**Link to work:** [Random Quote Machine](https://codepen.io/jessachandler/pen/dREOmP)
+
+{% include twitter_end.html %}

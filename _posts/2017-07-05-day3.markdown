@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Day 3 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+<div style = "width: 100%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
+  <div style = "width: 3%; height: 8px; background-color: #3a7f57;">
+  </div>
+</div>
+
+**Today's Progress**: 
++ Started challenges on  [Hacker Rank](http://www.hackerrank.com). Started working through Algorithms challenge and signed up for the Moody’s Women in Engineering Hackathon later this month…somehow also started 30 days of code on Hacker Rank, so my #daysofcode are not in sync.
++ Set up an account on Packt to access free ebooks for learning and improving skills. Today was HTML5 and CSS
++ Finished Chapter 2 of [Clean Code by Robert Martin](http://amzn.to/2sOXBuy). So obvious, but I found this statement in Clean Code to be profound, “If a name requires a comment, then the name does not reveal its intent.”
++ Finished Responsive Design with Bootstrap and jQuery sections on  [Free Code Camp]( https://www.freecodecamp.org). I’ll be starting on the “Build a Tribute Page” task tomorrow. 
++ Set up a [Code Pen](codepen.io) account. 
++ Joined [Open Source Friday](https://opensourcefriday.com) which I’m pretty sure is part of [GitHub](https://github.com/). To be honest, I’m not really sure what I’m going to do with this; however, I do think that my GitHub skills are not super great (I forget and have to look up the verbs - push, pull, etc.) and could be improved by having more contributions. 
++ Worked on changing the design pattern in my travel iOS application. It is getting a little unwieldy. After breaking the whole application again, I stopped to review some other developer approaches to their problems. 
+
+**Thoughts**: There appear to be many related things to join and set up to properly participate in the 100 Days of Code
+
+**Link to work**: None

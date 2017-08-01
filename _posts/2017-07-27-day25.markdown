@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Day 25 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+<div style = "width: 100%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
+  <div style = "width: 25%; height: 8px; background-color: #3a7f57;">
+  </div>
+</div>
+
+**Today's Progress**:
++ Finished **Day 22 of 30daysofCode** on [Hacker Rank](http://www.hackerrank.com), and I solved some algorithms, so my algorithm rank is now *39542*, better than yesterday (*43393*). 
++ Solved three of the Intermediate Algorithm Scripting for [Free Code Camp]( https://www.freecodecamp.org) - I'm currently on challenge 264.
++ Read about static site generation [Brian Rinaldi's free O'Reilly book on Static Site Generation](http://www.oreilly.com/web-platform/free/files/static-site-generators.pdf)
++ Read Ch 15 of Clean Code by Robert Martin - this chapter is on something called JUnit Internals. Either he didn't define it well, I didn't care, or some combination because I didn't get much out of it.  
+
+**Thoughts**: I struggled a little today with writing code that was efficient (still). My first approach is still many loops or if/then. I am getting better at refactoring.   
+
+**Link to work:**  None 
+
+{% include twitter_end.html %}

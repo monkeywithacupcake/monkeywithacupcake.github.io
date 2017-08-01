@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Day 26 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+<div style = "width: 100%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
+  <div style = "width: 26%; height: 8px; background-color: #3a7f57;">
+  </div>
+</div>
+
+**Today's Progress**:
++ Finished **Day 23 of 30daysofCode** on [Hacker Rank](http://www.hackerrank.com), and I solved some algorithms, so my algorithm rank is now *38002*, better than yesterday (*39542*). 
++ Solved four of the Intermediate Algorithm Scripting Challenges for [Free Code Camp]( https://www.freecodecamp.org) - I'm currently on challenge 269.
++ Created a page on github.io.  
+
+**Thoughts**: I enjoyed spending a little time on getting my site up, and I was able to maintain some discipline and not continue to work on it even though it is not really ready.  
+
+**Link to work:**  [My new site on GitHub](https://www.monkeywithacupcake.github.io) 
+
+{% include twitter_end.html %}

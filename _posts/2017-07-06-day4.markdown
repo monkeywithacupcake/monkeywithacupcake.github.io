@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Day 4 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+<div style = "width: 100%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
+  <div style = "width: 4%; height: 8px; background-color: #3a7f57;">
+  </div>
+</div>
+
+**Today's Progress**: 
++  Completely overhauled iOS application to allow for adding and deleting trips without duplicating code or exposing the model to the view. I’m super excited that it is working and quickly!
++  Started Chapter 3 of [Clean Code by Robert Martin](http://amzn.to/2sOXBuy). This chapter is on functions, and it is rather difficult to follow on the kindle. I’m going to try to finish reading it using the web version of the cloud reader so that I can follow the functions; they break up too much on the kindle reader. So far, I like the discussion of ensuring that each function is small enough that you can fit its descriptor in a “to” clause.
++ Using [Code Pen](codepen.io), I made a [very simple tribute page to Wendell Berry](https://codepen.io/jessachandler/pen/OgEmxb) for the [Free Code Camp]( https://www.freecodecamp.org) “Build a Tribute Page” challenge and started on the Personal Portfolio Page challenge. 
++ Claimed JavaScript Data Structures and Algorithms at Packt. I’m not sure when I will get to read these books, but I am definitely interested in learning more about using algorithms in javascript.
++ Finished **Day 1 of 30daysofCode** on [Hacker Rank](http://www.hackerrank.com). I really thought that the little “Hello World” activity yesterday was day 1, but it was day 0. Of course. I’m not sure why there was a 24 minute video about how to use Java when you could solve the code with your language of choice. I used python3. The hardest part of the challenges on Hacker Rank for me is to remember to read in the “stdin” because I’m used to dealing with data that I can see. Helpful, I’m sure. My rank is still *508575*. 
+
+**Thoughts**: I need to be diligent about code as I write it so that I can spend less time cleaning it later.
+
+**Link to work**: [Tribute page to Wendell Berry](https://codepen.io/jessachandler/pen/OgEmxb)
+
+
+{% include twitter_end.html %}

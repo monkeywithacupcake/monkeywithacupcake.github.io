@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Day 15 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+<div style = "width: 100%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
+  <div style = "width: 15%; height: 8px; background-color: #3a7f57;">
+  </div>
+</div>
+
+**Today's Progress**:
++ Finished **Day 12 of 30daysofCode** on [Hacker Rank](http://www.hackerrank.com), but I did not solve any other algorithms today, so my algorithm rank is now *83151*, which is worse than yesterday (*83041*).
++ Completed the JSON API and Ajax challenges in [Free Code Camp]( https://www.freecodecamp.org). I’m currently at challenge 255.  
++ Fixed all of the items that I set out to fix to improve my iOS application to track different "hats" that we wear. 
+
+**Thoughts**: I am looking forward to getting my DUNS number, so I can beta test my apps with other users. I was able to crush the challenge on classes today, and I attribute that to the practice that I've had with python lately. 
+
+**Link to work:** None
+
+
+{% include twitter_end.html %}
