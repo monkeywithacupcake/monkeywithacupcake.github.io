@@ -15,7 +15,12 @@ body {
   color: #3a7f57;
 }
 
-pre, code { font-size: .8em; border: 1px solid #e8e8e8; border-radius: 3px; background-color: #EEEBD3; }
+pre, code, .highlight, .highlighter-rouge .highlight {
+    font-size: .8em; 
+    border: 1px solid #e8e8e8; 
+    border-radius: 3px; 
+    background-color: #EEEBD3; 
+}
 
 a,
 a.link,
