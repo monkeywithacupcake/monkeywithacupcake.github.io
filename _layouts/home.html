@@ -24,8 +24,9 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
-            {% assign content = post.content %}
-          {% include post-preview.html %}
+          {{ post.excerpt | strip_html | truncatewords:30 }}
+            <!--{% assign content = post.content %}
+          {% include post-preview.html %}-->
       </li>
     {% endfor %}
   </ul>
