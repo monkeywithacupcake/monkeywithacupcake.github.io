@@ -8,12 +8,7 @@ categories: 100DaysofCode
   <div style = "width: 2%; height: 8px; background-color: #3a7f57;">
   </div>
 </div>
-{% assign words = content | number_of_words %}
-  {% if words < 270 %}
-    1 min
-  {% else %}
-    {{ words | divided_by:135 }} mins
-{% endif %}
+
 
 **Today's Progress**:
 + Finished Chapter 1 of [Clean Code by Robert Martin](http://amzn.to/2sOXBuy) I am loving this book, and I’m glad that it was recommended to me. I purchased it on kindle, but this is not the best format. If I could go back, I’d get the paper book. Of course, I just finished Chapter 1, so I don’t know how the rest of it will go.
