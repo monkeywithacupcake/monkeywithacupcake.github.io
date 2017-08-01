@@ -15,5 +15,3 @@ categories: 100DaysofCode
 
 **Link to work**: [Tribute page to Wendell Berry](https://codepen.io/jessachandler/pen/OgEmxb)
 
-
-{% include twitter_end.html %}

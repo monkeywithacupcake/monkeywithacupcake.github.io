@@ -12,5 +12,3 @@ categories: 100DaysofCode
 **Thoughts**: I like solving algorithms with code, but I prefer to have real challenges.
 
 **Link to work**: None - coding in swift today
-
-{% include twitter_end.html %}

@@ -14,4 +14,3 @@ categories: 100DaysofCode
 
 **Link to work**:[Pink Fairy Bot](https://github.com/monkeywithacupcake/pinkfairy-twitterbot)
 
-{% include twitter_end.html %}
