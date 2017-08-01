@@ -4,11 +4,6 @@ title:  "Day 5 of 100 Days of Code"
 categories: 100DaysofCode
 ---
 
-<div style = "width: 100%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
-  <div style = "width: 5%; height: 8px; background-color: #3a7f57;">
-  </div>
-</div>
-
 **Today's Progress**: 
 + Changed several String data fields into enums to improve functionality in my iOS application and prevent crashes. Also added in some editing capability. I spent about 4 hours on revisions today, and the application backend is better for it. The front end still needs work. 
 + Finished **Day 2 of 30daysofCode** on [Hacker Rank](http://www.hackerrank.com) and some other algorithm challenges. I ignored the video for Day 2 and just solved the problems. For all of them, I used python3.  My rank is now *355944*, so I think that means that I surpassed more than 100,000 people (*I was at 508575 yesterday*) for just solving a few simple problems today. 

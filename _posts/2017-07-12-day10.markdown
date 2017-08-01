@@ -4,11 +4,6 @@ title:  "Day 10 of 100 Days of Code"
 categories: 100DaysofCode
 ---
 
-<div style = "width: 100%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
-  <div style = "width: 10%; height: 8px; background-color: #3a7f57;">
-  </div>
-</div>
-
 **Today's Progress**:
 + Read Ch 6 of [Clean Code by Robert Martin](http://amzn.to/2sOXBuy). This chapter was on objects, and it was a bit over my head. I am going to have to re-read it. I think the gist is that you should use data structures (structs or classes) to hold items in data. Then, object methods should act on these items, but your functions should not reveal the underlying structure. Now, just reading what I wrote, I am confused again. It seems to keep gelling and then oozing out of my brain.
 + Finished **Day 7 of 30daysofCode** on [Hacker Rank](http://www.hackerrank.com) and some other algorithm challenges. I am still ignoring the videos for 30daysofcode. I also solved some more implementation algorithms. My algorithm rank is now *150588*, still improving (*I was at 174380 yesterday*) for just solving a few problems today. 
@@ -20,4 +15,3 @@ categories: 100DaysofCode
 
 **Link to work:** [Pink Fairy Bot](https://github.com/monkeywithacupcake/pinkfairy-twitterbot)
 
-{% include twitter_end.html %}

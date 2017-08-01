@@ -4,11 +4,6 @@ title:  "Day 9 of 100 Days of Code"
 categories: 100DaysofCode
 ---
 
-<div style = "width: 100%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
-  <div style = "width: 9%; height: 8px; background-color: #3a7f57;">
-  </div>
-</div>
-
 **Today's Progress**:
 + Finished **Day 6 of 30daysofCode** on [Hacker Rank](http://www.hackerrank.com) and some other algorithm challenges. I am still ignoring the videos for 30daysofcode. The challenge today was much simpler than I thought at first, just printing indexed strings - still fun. I also solved some more algorithms. My algorithm rank is now *174380*, still improving (*I was at 196737 yesterday*) for just solving a few problems today. 
 + Read the 100daysofcode Github repo and realized that the rules are different than what I had thought. ~I am going to start working on a twitter bot for fun and to meet the goal of having a real challenge.~ And now I have a twitter bot up and running - I really thought that would take more than an hour. I’m pretty excited to have gotten it working. You can see the [public GitHub repo for the Pink Fairy Bot](https://github.com/monkeywithacupcake/pinkfairy-twitterbot), the [@PinkFairyBook twitter profile](https://twitter.com/PinkFairyBook), or interact with it using the hashtag “#PinkFairyBook” on twitter. Hopefully my computer will be running, and you will get a response. **Next: I will figure out how to make it work from not my laptop.**
