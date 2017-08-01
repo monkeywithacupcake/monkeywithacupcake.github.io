@@ -5,6 +5,13 @@ layout: default
 <div class="home">
 
   <h1 class="page-heading">Posts LOG</h1>
+    
+<div style = "width: 100%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
+  <div style = "width: 2%; height: 8px; background-color: #3a7f57;">
+  </div>
+</div>
+
+
   
   {{ content }}
 
@@ -17,12 +24,7 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
-            
-          {% if post.title %}
-  {{ post.title }}
-  {{ post.date | date_to_string }}
-{% endif %}
-{{ post.excerpt | strip_html | truncatewords:18 }}
+            {{ post.excerpt | strip_html | truncatewords:18 }}
       </li>
     {% endfor %}
   </ul>
