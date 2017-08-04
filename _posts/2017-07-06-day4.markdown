@@ -14,4 +14,5 @@ categories: 100DaysofCode
 **Thoughts**: I need to be diligent about code as I write it so that I can spend less time cleaning it later.
 
 **Link to work**: [Tribute page to Wendell Berry](https://codepen.io/jessachandler/pen/OgEmxb)
-
+<p data-height="265" data-theme-id="0" data-slug-hash="OgEmxb" data-default-tab="result" data-user="jessachandler" data-embed-version="2" data-pen-title="Tribute to Wendell Berry" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jessachandler/pen/OgEmxb/">Tribute to Wendell Berry</a> by jess (<a href="https://codepen.io/jessachandler">@jessachandler</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>

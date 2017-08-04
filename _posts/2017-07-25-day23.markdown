@@ -10,4 +10,6 @@ categories: 100DaysofCode
 
 **Thoughts**: I need to box this progress into a smaller part of my day. It's enjoyable, but I need to do other stuff. I may begin limiting these tasks to < 2 hours per day.   
 
-**Link to work:**  [Twitch.tv app](https://codepen.io/jessachandler/pen/dzyrEb) 
+**Link to work:**  [Twitch.tv app](https://codepen.io/jessachandler/pen/dzyrEb)
+<p data-height="265" data-theme-id="0" data-slug-hash="dzyrEb" data-default-tab="js,result" data-user="jessachandler" data-embed-version="2" data-pen-title="simply FCC Twitch" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jessachandler/pen/dzyrEb/">simply FCC Twitch</a> by jess (<a href="https://codepen.io/jessachandler">@jessachandler</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>

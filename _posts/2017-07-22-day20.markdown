@@ -12,4 +12,5 @@ categories: 100DaysofCode
 **Thoughts**: I am happy to make progress on these applications. The challenges help me learn new skills that improve my thinking for the things that I want to do.  
 
 **Link to work:**  [Weather App in Dev](https://codepen.io/jessachandler/pen/qjeWRM)  
-
+<p data-height="232" data-theme-id="0" data-slug-hash="qjeWRM" data-default-tab="result" data-user="jessachandler" data-embed-version="2" data-pen-title="Simply Weather" class="codepen">See the Pen <a href="https://codepen.io/jessachandler/pen/qjeWRM/">Simply Weather</a> by jess (<a href="https://codepen.io/jessachandler">@jessachandler</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
