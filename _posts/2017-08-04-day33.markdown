@@ -55,4 +55,6 @@ def cipherString(s, k):
 
 **Thoughts**: I enjoy solving real problems. 
 
-**Link to work**: None
+**Link to work**: 
+<p data-height="289" data-theme-id="0" data-slug-hash="OjbWzW" data-default-tab="result" data-user="jessachandler" data-embed-version="2" data-pen-title="Bear Cub #dailycssimages" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jessachandler/pen/OjbWzW/">Bear Cub #dailycssimages</a> by jess (<a href="https://codepen.io/jessachandler">@jessachandler</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
