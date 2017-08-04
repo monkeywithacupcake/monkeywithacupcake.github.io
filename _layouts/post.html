@@ -9,12 +9,7 @@ layout: default
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {% assign date_format = site.minima.date_format | default: "%Y-%m-%d" %}
         {{ page.date | date: date_format }} 
-          {% assign words = content | number_of_words %}
-    {% if words < 270 %}
-        1 min read
-    {% else %}
-        {{ words | divided_by:135 }} min read
-    {% endif %}
+          
       </time>
       {% if page.author %}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
