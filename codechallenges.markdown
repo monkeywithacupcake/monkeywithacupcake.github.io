@@ -14,7 +14,7 @@ Started: 2017-07-03
 </div>
 33 of 100 Days of Code Complete
 
-*Free Code Camp <span class='fa fa-freecodecamp'></span>*
+*Free Code Camp*
 Started: 2017-07-03
 
 <div style = "width: 100%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
