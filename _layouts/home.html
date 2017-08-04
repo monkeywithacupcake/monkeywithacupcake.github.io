@@ -25,20 +25,18 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        {% assign date_format = site.minima.date_format | default: "%Y-%m-%d" %}
-        
-        <span class="post-meta">{{ post.date | date: date_format }}
-            {% capture words %}
-          {{ post.content | number_of_words | minus: 250 }}
-        {% endcapture %}
-        {% unless words contains "-" %}
-          {{ words | plus: 250 | divided_by: 180 | append: " minute read" }}
-        {% endunless %}
-          </span>
-          
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2> 
+        {% assign date_format = site.minima.date_format | default: "%Y-%m-%d" %}  
+        <span class="post-meta">{{ post.date | date: date_format }}
+            {% capture words %}
+              {{ post.content | number_of_words | minus: 250 }}
+            {% endcapture %}
+            {% unless words contains "-" %}
+              {{ words | plus: 250 | divided_by: 180 | append: " minute read" }}
+            {% endunless %}
+          </span>
           {{ post.excerpt | strip_html | truncatewords:30 }}
       </li>
     {% endfor %}
