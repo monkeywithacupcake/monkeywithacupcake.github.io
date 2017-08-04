@@ -5,35 +5,32 @@ permalink: /codechallenges/
 ---
 
 
-*100 Days of Code*
++ **100 Days of Code**
 Started: 2017-07-03
-
 <div style = "width: 100%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
   <div style = "width: 33%; height: 8px; background-color: #3a7f57;">
   </div>
 </div>
 33 of 100 Days of Code Complete
 
-*Free Code Camp*
++ **Free Code Camp**
 Started: 2017-07-03
-
 <div style = "width: 100%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
-  <div style = "width: (272/292)%; height: 8px; background-color: #3a7f57;">
+  <div style = "width: 93%; height: 8px; background-color: #3a7f57;">
   </div>
 </div>
 272 of 292 Front End Challenges Complete
 
-*30 Days of Code on Hacker Rank *
++ **30 Days of Code on Hacker Rank**
 Started: 2017-07-05
-
 <div style = "width: 30%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
   <div style = "width: 100%; height: 8px; background-color: #3a7f57;">
   </div>   
 </div>
-Finished 2017-08-02
+Finished 2017-08-03
 
 
-*Daily CSS Images (50)*
++ **Daily CSS Images (50)**
 Started 2017-08-04    
 <div style = "width: 50%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
   <div style = "width: 0%; height: 8px; background-color: #3a7f57;">
@@ -42,6 +39,6 @@ Started 2017-08-04
 Signed Up Today! 0 of 50 Daily CSS Image Challenge
 
     
-*Hacker Rank Algorithms*
++ **Hacker Rank Algorithms**
 Started 2017-07-05
 {% include hackerrank.html %}
