@@ -7,33 +7,7 @@ categories: 100DaysofCode
 **Today's Progress**:
 + Minor progress on Advanced Front End Algorithms on [Free Code Camp](https://www.freecodecamp.com); now I am on challenge 284. 
 + My [Hacker Rank](http://www.hackerrank.com) algorithm rank today is *18,336*, a little better than yesterday (*19,717*) because I solved an algorithm. I was fairly happy with the way that I figured out how to solve the problem with my first approach and did not timeout.
-+ I did the third Pure CSS image challenge: Beaver. I love doing this with the pug HTML pre-processor. My HTML looks like this:
-
-{% highlight %}
-.big-label
-  h2 Beaver #dailycssimages 3
-.box 
-  .tree-left
-  .tree-right
-  .floor
-  .tail
-  .torso
-    .ear-left
-      .inner-ear
-    .ear-right
-      .inner-ear
-    .eye-left
-    .eye-right
-    .nose
-    .teeth
-      .tooth-left
-      .tooth-right
-    .mouth
-    .face-line
-    .cheek-right
-    .cheek-left
-  .bitemark
-{% endhighlight %}
++ I did the third Pure CSS image challenge: Beaver. I love doing this with the pug HTML pre-processor. 
 
 **Thoughts**: I still enjoy solving algorithms with python.   
 
