@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Day 44 of 100 Days of Code"
+categories: 100DaysofCode
+---
+**Today's Progress**:
++ Finished the Calculator for [Free Code Camp](https://www.freecodecamp.com). I'll start on the pomodoro app tomorrow.
++ Solved a quick graph algorithm on [Hacker Rank](http://www.hackerrank.com).
++ Made more progress on the instagram clone app that I'm making with [Code with Chris](https://codewithchris.com)
+
+**Thoughts**: Getting started early and not spending all day mired in Hacker Rank algorithm incremental improvements certainly makes things faster 
+
+**Link to work**:
++ [Calculator](https://codepen.io/jessachandler/pen/LjjgyP)
++ [Notepad](https://codepen.io/jessachandler/pen/LjzXqy)
