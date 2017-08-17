@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Day 46 of 100 Days of Code"
+categories: 100DaysofCode
+---
+**Today's Progress**:
++ Worked on the pomodoro timer for [Free Code Camp](https://www.freecodecamp.com)
++ Two algorithms down for [Hacker Rank](http://www.hackerrank.com)  - Got a super exciting 76th percentile Algorithms badge. I've now finished 70 algorithms challenges.
++ Working on updating group and individual auth info on firebase from iOS
+
+**Thoughts**: Can't wait to apply learnings with javascript, css, and other libraries to be able to share more data analysis on the web.
+
+**Link to work**:
++[Pencil Jar](https://codepen.io/jessachandler/pen/wqdMLy)
++[Pomodoro Timer in Progress](https://codepen.io/jessachandler/pen/WEXZER)

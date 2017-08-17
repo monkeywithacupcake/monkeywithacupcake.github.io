@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Day 45 of 100 Days of Code"
+categories: 100DaysofCode
+---
+**Today's Progress**:
++ Started the pomodoro timer for [Free Code Camp](https://www.freecodecamp.com)
++ One algorithm down for [Hacker Rank](http://www.hackerrank.com) 
++ I made an imitation of my favorite planner for the daily css challenge today: calendar
++ Got past all of the logic for login/logout/update groups for iOS and firebase.
+
+**Thoughts**: Some things are easy to do in CSS, and others make more sense with different programs.
+
+**Link to work**:
++[Mini ETP](https://codepen.io/jessachandler/pen/xLPPgx)
++[Pomodoro Timer in Progress](https://codepen.io/jessachandler/pen/WEXZER)

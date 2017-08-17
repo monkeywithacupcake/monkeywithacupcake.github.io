@@ -8,10 +8,10 @@ permalink: /codechallenges/
 + **100 Days of Code**
 Started: 2017-07-03
 <div style = "width: 100%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
-  <div style = "width: 44%; height: 8px; background-color: #3a7f57;">
+  <div style = "width: 46%; height: 8px; background-color: #3a7f57;">
   </div>
 </div>
-44 of 100 Days of Code Complete
+46 of 100 Days of Code Complete
 
 + **Free Code Camp Front End**
 Started: 2017-07-03
@@ -27,10 +27,10 @@ Started: 2017-07-03
 + **Daily CSS Images (50)**
 Started 2017-08-04    
 <div style = "width: 50%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
-  <div style = "width: 16%; height: 8px; background-color: #3a7f57;">
+  <div style = "width: 20%; height: 8px; background-color: #3a7f57;">
   </div>   
 </div>
-8 of 50 Daily CSS Image Challenge
+10 of 50 Daily CSS Image Challenge
 [Projects I built on CodePen for #dailycssimages](https://codepen.io/collection/nGzRYE/)
 
 
