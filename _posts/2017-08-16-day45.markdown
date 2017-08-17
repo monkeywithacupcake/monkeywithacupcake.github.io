@@ -12,5 +12,5 @@ categories: 100DaysofCode
 **Thoughts**: Some things are easy to do in CSS, and others make more sense with different programs.
 
 **Link to work**:
-+[Mini ETP](https://codepen.io/jessachandler/pen/xLPPgx)
-+[Pomodoro Timer in Progress](https://codepen.io/jessachandler/pen/WEXZER)
++ [Mini ETP](https://codepen.io/jessachandler/pen/xLPPgx)
++ [Pomodoro Timer in Progress](https://codepen.io/jessachandler/pen/WEXZER)

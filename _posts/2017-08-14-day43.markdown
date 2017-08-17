@@ -12,7 +12,7 @@ categories: 100DaysofCode
 **Thoughts**: I am learning quite a bit from the codepen projects for Free Code Camp and for the Daily CSS images, but at the same time, they are parallel learnings to my primary code task - the travel app. I'm tempted to focus on just the swift work, but I think the exposure to more algorithms and use cases helps me to think about my projects from more perspectives.   
 
 **Link to work**:
-+[Calculator Project](https://codepen.io/jessachandler/pen/LjjgyP)
-+[Ruler](https://codepen.io/jessachandler/pen/GvMjYV/")
++ [Calculator Project](https://codepen.io/jessachandler/pen/LjjgyP)
++ [Ruler](https://codepen.io/jessachandler/pen/GvMjYV/")
 <p data-height="265" data-theme-id="0" data-slug-hash="GvMjYV" data-default-tab="result" data-user="jessachandler" data-embed-version="2" data-pen-title="7 Ruler #dailycssimages" class="codepen">See the Pen <a href="https://codepen.io/jessachandler/pen/GvMjYV/">7 Ruler #dailycssimages</a> by jess (<a href="https://codepen.io/jessachandler">@jessachandler</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
