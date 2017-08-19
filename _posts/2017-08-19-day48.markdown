@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Day 48 of 100 Days of Code"
+categories: 100DaysofCode
+---
+**Today's Progress**:
++ Worked on the pomodoro timer for [Free Code Camp](https://www.freecodecamp.com)
++ Started working on the Mandragora Forest for [Hacker Rank](http://www.hackerrank.com) 
++ Made yesterday's pizza and today's burger for [Daily CSS Images](http://challenges.codingartist.io/daily-css-images/)
+
+**Thoughts**: I am very excited to reset [my personal blog](http://jessachandler.com) using jekyll. It looks so much better, and I am no longer dependent on wordpress. Now, I need to remember to delete the wordpress items and update the blog - It's still mostly empty: 
+
+**Link to work**:[Pizza & Burger](https://codepen.io/jessachandler/pen/eEVjgr/)
+
+<p data-height="407" data-theme-id="0" data-slug-hash="eEVjgr" data-default-tab="html,result" data-user="jessachandler" data-embed-version="2" data-pen-title="11 12 Pizza Burger #dailycssimages" class="codepen">See the Pen <a href="https://codepen.io/jessachandler/pen/eEVjgr/">11 12 Pizza Burger #dailycssimages</a> by jess (<a href="https://codepen.io/jessachandler">@jessachandler</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
