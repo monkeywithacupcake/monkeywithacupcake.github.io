@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Day 60 of 100 Days of Code"
+categories: 100DaysofCode
+---
+**Today's Progress**:
++ I tested out PDF Kit
++ Finished building the connectivity for comments on the photo app
+
+**Thoughts**:  There is so much going on with code that I don't know how to keep up. I will have to cut off exploration in some directions to be competent in others.
+
+**Link to work**:
