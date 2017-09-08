@@ -4,14 +4,23 @@ title: Coding Challenge Status
 permalink: /codechallenges/
 ---
 
+## Active
 
 + **100 Days of Code**
 Started: 2017-07-03
 <div style = "width: 100%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
-  <div style = "width: 64%; height: 8px; background-color: #3a7f57;">
+  <div style = "width: 68%; height: 8px; background-color: #3a7f57;">
   </div>
 </div>
-64 of 100 Days of Code Complete
+68 of 100 Days of Code Complete
+
++ **Hacker Rank Algorithms**
+Started 2017-07-05
+{% include hackerrank.html %}
+
+<hr>
+
+## Finished
 
 + **Free Code Camp Front End**
 Started: 2017-07-03
@@ -19,7 +28,7 @@ Started: 2017-07-03
   <div style = "width: 100%; height: 8px; background-color: #3a7f57;">
   </div>
 </div>
-292 of 292 Front End Challenges Complete. I have to make sure everything is good and then request my front end certificate!
+292 of 292 Front End Challenges Complete. I got my front end certificate!
 [Projects I built on CodePen for Free Code Camp Front End](https://codepen.io/collection/ArWvQg/)
 
 
@@ -43,6 +52,3 @@ Started: 2017-07-05
 Finished 2017-08-03
 
     
-+ **Hacker Rank Algorithms**
-Started 2017-07-05
-{% include hackerrank.html %}

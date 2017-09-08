@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 67 of 100 Days of Code"
+categories: 100DaysofCode
+---
+**Today's Progress**:
++ I made many tiny bits of progress with the calendar app.
+
+**Thoughts**:  I need to re-read the docs for EventKit to understand why I cannot subclass EKEvent, so that I can figure out how to keep both the calendar AND my array current when items are added and edited. 
+
+**Link to work**: [MyCalendar App](https://github.com/monkeywithacupcake/MyCalendar)
