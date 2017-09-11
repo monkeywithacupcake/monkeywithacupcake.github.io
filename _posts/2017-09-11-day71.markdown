@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 71 of 100 Days of Code"
+categories: 100DaysofCode
+---
+**Today's Progress**:
++ completed new app auth and inital view layouts 
++ created twitter account and facebook page for app
++ created artwork
+
+
+**Thoughts**: Winning name was Travel Together. I had forgotten how much not coding goes into preparing to code up an app with authorizations and communicate with potential clients.
+
+**Link to work**: [Travel Together](https://monkeywithacupcake.github.io/group-travel-app/)

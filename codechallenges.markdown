@@ -9,10 +9,10 @@ permalink: /codechallenges/
 + **100 Days of Code**
 Started: 2017-07-03
 <div style = "width: 100%; height: 8px; border: 2px; border-style: solid; border-color: #3a7f57;">
-  <div style = "width: 68%; height: 8px; background-color: #3a7f57;">
+  <div style = "width: 71%; height: 8px; background-color: #3a7f57;">
   </div>
 </div>
-68 of 100 Days of Code Complete
+71 of 100 Days of Code Complete
 
 + **Hacker Rank Algorithms**
 Started 2017-07-05
