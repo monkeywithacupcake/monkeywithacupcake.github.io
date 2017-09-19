@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 77 of 100 Days of Code"
+categories: 100DaysofCode
+---
+**Today's Progress**:
++ I spent the day working on user interaction and transition between items and views
+
+**Thoughts**: Programming takes way more time than I think it will. I have all of the pieces and still have to spend time configuring each step. 
+
+**Link to work**: None to show
