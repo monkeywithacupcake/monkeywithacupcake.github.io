@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 82 of 100 Days of Code"
+categories: 100DaysofCode
+---
+**Today's Progress**:
++ Shifted from Swift 3 to Swift 4. It was a bit of a struggle to get Xcode to play along. 
+
+**Thoughts**:   As a newer developer, the changing rules for the code is very confusing.
+
+**Link to work**:
