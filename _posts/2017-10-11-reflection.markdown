@@ -5,7 +5,11 @@ categories: 100DaysofCode
 ---
 **Today's Progress**:
 
-What can you do in 100 days? The answers are limitless. Committing to 100 days of code was great for both my coding and my larger self. At the beginning of July, I was big-eyed and ready to learn a thousand things. I stumbled onto the #100DaysOfCode community. Looking back, I'm so happy that I did. I've learned a ton, and I've met some great people (online and in person). 
+What can you do in 100 days? The answers are limitless. Committing to 100 days of code was great for both my coding and my larger self.  
+
+Before I started the 100 Days of Code, I was familiar with HTML and CSS, maintained a few websites, had created a few applications in python and R (mostly for data fetching, processing, and viewing), and had dipped my toe into swift because I had a "great app idea" to solve a problem. Now, I'm confident that I can solve a few problems in a few languages, and I know enough to not bite off some problems. I understand how some of the ecosystem of web services and mobile applications work. I am still aware that there are languages I haven't touched and may not. *It's as if I can see my little mountains and valleys more clearly, but I also know that the world is bigger.* 
+
+At the beginning of July, I was big-eyed and ready to learn a thousand things. I had undreasonable expectations for my ability to climb up the learning curve and develop new applications. I stumbled onto the #100DaysOfCode community. Looking back, I'm so happy that I did. I've learned a ton, and I've met some great people (online and in person). One hundred days later, I wanted to be in a different place, but I'm happy that I took the path that I have. 
 
 I can list many of the things that I did:
 
@@ -36,11 +40,13 @@ I can list many of the things that I did:
 + completed an Amazon Serverless workshop and built a tutorial Alexa skill for a simulated IoT device
 + made my first pull requests on public repos using github to start contributing to the open source community
 
-That's probably a fairly complete list. However, it shows one of the characteristics of my 100DaysOfCode that was probably not ideal: I was ALL OVER THE PLACE. It's my nature to be this way. I've always wanted to do everything and do it all right now. I don't recommend following such a haphazard path. There's always another shiny thing. It may even be a better shiny thing. I even benefitted a little from bouncing around because struggling with the semantics of a new language helped me to understand more of the fundamentals of things that I had somehow picked up along the way as practice without truly grasping the foundations. Some of what I did and learned does not quite fit neatly on the list, like making mental connections between different processes, comparing and contrasting the amount of code required to do different tasks by language, learning the discipline of writing less crappy code, etc. Also, there's a whole other laundry list of coding-adjacent things that must be done - creating or finding graphics, choosing color palettes, choosing and applying fonts, understanding how changes in development cycles for hardware and software impact your code delivery, etc. 
+That's probably a fairly complete list. However, it shows one of the characteristics of my 100DaysOfCode that was probably not ideal: I was ALL OVER THE PLACE. It's my nature to be this way. I've always wanted to do everything and do it all right now. I don't recommend following such a haphazard path. There's always another shiny thing. It may even be a better shiny thing. Following one path is beneficial, though, because it is easier to look back on completed work and understand how all the parts fit together. 
 
-Throughout this journey, I've found that the community is the best part. Sure, committing to do something for 100 days is great, and actually following through yields results. However, the community is the best. I love the engagement on twitter. Everyone is friendly and encouraging. It's truly beautiful.
+Luckily, I benefitted a little from bouncing around because struggling with the semantics of a new language helped me to understand more of the fundamentals of things that I had somehow picked up along the way as practice without truly grasping the foundations. Some of what I did and learned does not quite fit neatly on the list, like making mental connections between different processes, comparing and contrasting the amount of code required to do different tasks by language, learning the discipline of writing less crappy code, etc. Also, there's a whole other laundry list of coding-adjacent things that must be done - creating or finding graphics, choosing color palettes, choosing and applying fonts, understanding how changes in development cycles for hardware and software impact your code delivery, etc. 
 
-I am going to do another round. This time, I'm going to focus on a few specific goals. In the next 100 days (by Jan 18), I will:
+Throughout this journey, I've found that the community is the best part. Sure, committing to do something for 100 days is great, and actually following through yields results. That's the premise behind the P90X workout system, right? However, the community is the best. I love the engagement on twitter. Everyone is friendly and encouraging. It's truly beautiful.
+
+As for me, I am going to do another round. This time, I'm going to focus on a few specific goals. In the next 100 days (by Jan 18), I will:
 + finish, beta test, and launch the Travel Together iOS application (swift)
 + finish the refactor for and launch the other two iOS applications that I made (swift) 
 + finish the school quiz application for iOS and android (reactnative) that I've planned out but not coded, beta test, and launch
