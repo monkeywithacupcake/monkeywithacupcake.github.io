@@ -5,15 +5,16 @@ categories: 100DaysofCode
 ---
 **Today's Progress**:
 
-What can you do in 100 days? The answers are limitless. Committing to 100 days of code was great for both my coding and my larger self.  
+What can you do in 100 days? The answers are limitless. Committing to 100 days of code was great for both my coding and my larger self.  I never set out to be a developer or master any platform, but I wanted to have the skills to solve problems that I knew existed. Unfortunately, I didn't know where to start to get those skills. Where were they hiding? Behind what wall, encoded in which language?
 
 Before I started the 100 Days of Code, I was familiar with HTML and CSS, maintained a few websites, had created a few applications in python and R (mostly for data fetching, processing, and viewing), and had dipped my toe into swift because I had a "great app idea" to solve a problem. Now, I'm confident that I can solve a few problems in a few languages, and I know enough to not bite off some problems. I understand how some of the ecosystem of web services and mobile applications work. I am still aware that there are languages I haven't touched and may not. *It's as if I can see my little mountains and valleys more clearly, but I also know that the world is bigger.* 
 
-At the beginning of July, I was big-eyed and ready to learn a thousand things. I had undreasonable expectations for my ability to climb up the learning curve and develop new applications. I stumbled onto the #100DaysOfCode community. Looking back, I'm so happy that I did. I've learned a ton, and I've met some great people (online and in person). One hundred days later, I wanted to be in a different place, but I'm happy that I took the path that I have. 
+At the beginning of July, I was big-eyed and ready to learn a thousand things. I had unreasonable expectations for my ability to climb up the learning curve and develop new applications. I stumbled onto the #100DaysOfCode community. Looking back, I'm so happy that I did. I've learned a ton, and I've met some great people (online and in person). One hundred days later, I wanted to be in a different place, but I'm happy that I took the path that I have. 
 
 I can list many of the things that I did:
 
-+ coded over a dozen iOS applications based on instructions/tutorials/workbooks to gain skills. 
++ brushed up and modernized my HTML and css game
++ coded over a dozen iOS applications based on instructions/tutorials/workbooks to gain skills in swift 
 + developed 2 complete iOS applications from my own ideas (2 are headed to appstore once I convert to Swift 4 and prepare for iOS11)
     + "Crushing It" allows simple tracking of things you want to repeatedly do
     + "My Hats" tracks all the different roles we might have at a given time (boards and what not)
