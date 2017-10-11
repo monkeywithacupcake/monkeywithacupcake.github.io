@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Day 100 of 100 Days of Code"
+categories: 100DaysofCode
+---
+**Today's Progress**:
++ Minor progress on application
+

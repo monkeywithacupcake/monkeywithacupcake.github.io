@@ -18,13 +18,14 @@ func saveNewTripToDatabase(name: String, uname: String){
         let trip = ["name": name,
                     "owner": owner,
                     "created": dateString,
-                    "updated": dateString,
+                    "updated": dateString, // this next is what I was missing
                     "members": [firstpersonkey : ["userid": owner,
                                                   "name": uname]]] as [String : Any]
         let tripUpdates = ["/trips/\(key)": trip,
                            "/users/\(owner)/trips/\(key)/": true] as [String : Any]
        // ... error handling, delegate returns...
-{ % endhighlight %}
+       }
+{% endhighlight %}
 
 **Thoughts**:   Spent 30 minutes at Tully's just waiting on the simulator to launch - blargh!!! I can't wait for my ram to show up. 
 
