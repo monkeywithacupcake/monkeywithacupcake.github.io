@@ -5,9 +5,9 @@ permalink: /ListOThings/
 ---
 
 I made some lists! 
-[To Check Out](#to-check-out)
-[Tried](#tried)
-[Words and Names](#words-and-names)
++ [To Check Out](#to-check-out)
++ [Tried](#tried)
++ [Words and Names](#words-and-names)
 
 ## To Check Out ##
 + Ionic
