@@ -25,6 +25,6 @@ In my exploration of offline first, I found this [fantastic short list](https://
 
 **Timing** I want progress to happen faster.
 
-**DateStorate** In swift, when you `let dateString = String(describing: Date())`, the output is always in GMT, or +0000. This is important because you need to remember to keep the calendar locale in mind and transitions to/from the GMT.
+**DateStorage** In swift, when you `let dateString = String(describing: Date())`, the output is always in GMT, or +0000. This is important because you need to remember to keep the calendar locale in mind and transitions to/from the GMT.
 
 ## Link to work
