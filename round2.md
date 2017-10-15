@@ -1,17 +1,17 @@
 ---
 layout: default
-
+title: Round 2
+permalink: /round2/
+pagination: 
+  enabled: true
+  collection: round2
+  trail: 
+    before: 2 # The number of links before the current page
+    after: 2  # The number of links after the current page
 ---
 
-
-
-<div class="home">
-
-  <h1 class="page-heading">100 Days of Code Progress</h1>
-    
- 
-  <ul class="post-list">
-    {% for post in site.posts %}
+ <ul class="post-list">
+    {% for post in paginator.posts %}
       <li>
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
@@ -28,22 +28,17 @@ layout: default
               {{ post.excerpt | strip_html | truncatewords:30 }}        
       </li>
     {% endfor %}
-    {% for collection in site.collections %}
-      {% if collection.label != "posts" %}
-      <li>
-        <h2>
-         <a class="page-link" href="{{ site.baseurl}}/{{collection.label }}/index.html">{{ collection.longname | escape }}</a>
-         </h2>
-          {{ collection.description | escape }}
-      </li>
-      
-          {% endif %}
-    {% endfor %}
   </ul>
 
+{% if paginator.total_pages > 1 %}
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"> Newer  </a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}"> Older </a>
+  {% endif %}
+{% endif %}
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 
-</div>
 
 

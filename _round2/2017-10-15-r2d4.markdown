@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Round 2 Day 4 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+I spent at least an hour this morning browsing through stack overflow trying to find people I could help, helping them, commenting, and hoping that someone would answer my jekyll question from yesterday. Still no luck. 
+
+## Today's Progress
++ I had a bit of an aha moment when struggling with some firebase edits. I can create a `[String: Bool]` dictionary with a loop if I don't try to append. I had been trying to append and losing my mind. Then, I can upload to firebase by just including: `"going" : goingdict` for example rather than writing it all out. I'm super excited about this. Of course, this example is trivial, but it has implications for the rest of my writing to firebase challenges. Especially when just trying to include a list of things. 
+
+{% highlight swift %}
+    var goingdict = [String: Bool]()
+    for m in trip.members {
+        goingdict[m.personid] = true
+    }       
+{% endhighlight %}
+
++ I solved the issue that I had with the jekyll pagination and then spent some time reconfiguring this log
+
+
+## Thoughts  
+**TFW your PR is merged** I don't think it ever gets old. I love contributing. Also, a twitter-er and I discussed the possibility of a Chrome extension to let you know exactly when this happens. I'm not sure yet how to implement because (1) I've never created a Chrome extension and (2) I'm not sure that Chrome can "listen" for change in state to the github API. I think there is a call limit. However, I'm going to investigate this. 
+
+## Link to work
++ I found the solution to my own jekyll question - yay! [Q & A on Stack Overflow](https://stackoverflow.com/questions/46739899/how-to-avoid-duplicate-pages-with-collections-using-jekyll-paginate-v2/46752455#46752455)
+
