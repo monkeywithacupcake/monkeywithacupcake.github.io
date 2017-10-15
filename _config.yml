@@ -41,11 +41,12 @@ collections:
     output: true
     longname: "Round 1"
     description: "Posts from my first trip through 100 Days of Code, started 03 JUL 2017"
+    permalink: /:collection/:path/
   round2:
     output: true
     longname: "Round 2"
     description: "Posts from my second trip through 100 Days of Code, started 12 OCT 2017"
-    #permalink: /:collection/:path/
+    permalink: /:collection/:path/
     
 # Plugin: Pagination (jekyll-paginate-v2)
 pagination:
