@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 69 of 100 Days of Code"
+categories: 100DaysofCode
+---
+**Today's Progress**:
++ I tried to pivot to reactjs. Completed a tutorial and read up on keys. 
+
+**Thoughts**:  Shifting from swift to reactjs was hard on my brain, but I was able to make some connections. So many of these languages/ libraries have similar concepts. I hope that I can use react later for web apps and android apps. 
+
+**Link to work**: none today

@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Round 2 Day 5 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+I had to completely undo the pagination of the log today. I am sad about this.
+
+## Today's Progress
++ Refactored this log to not have collections or pages
++ Attempted to fix the small screen hamburger navigation.
+
+
+## Thoughts  
+**Two steps back** All of my coding today was basically to no end. I spent over an hour trying to make the navigation hamburger on small screens work for the log, but it still does not. I am going to need to spend more time understanding why. I also had to kill the pagination because I was doing something wrong with github. Blargh!
+
+## Link to work

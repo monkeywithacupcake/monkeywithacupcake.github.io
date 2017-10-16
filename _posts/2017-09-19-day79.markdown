@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 79 of 100 Days of Code"
+categories: 100DaysofCode
+---
+**Today's Progress**:
++ I corrected the map view to show the annotations in the right place. 
++ I added a transition to the maps app for directions from the user's current location
++ I added a new trip function
++ I tried to correct the transition to the tab view where the user sees the data right away, but it did not work.
+
+**Thoughts**:  Little forward progress is still forward progress.
+
+**Link to work**: None to show

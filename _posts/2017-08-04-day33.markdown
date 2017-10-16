@@ -1,0 +1,60 @@
+---
+layout: post
+title:  "Day 33 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+**Today's Progress**:
++ Finally got [Free Code Camp](https://www.freecodecamp.com) unstuck. I had forgotten about the forums, but after waiting for support (I know it is small non-profit, not complaining), I figured it must have happened to someone else. On the forum, I found an old similar problem, and was able to use the guidance to fix mine. Basically, the browser was stuck in an infinite loop. I did not realize, but the browser is storing the code submitted for the challenges. The solution is to clear it from the browser, but you don't have to clear all of the data, just the one challenge. In my version of Chrome, this meant navigating to a working page on the same site, opening Developer Tools, selecting the Application tab, navigating to Local Storage, finding and deleting the offending challenge in the site's list. I was able to finish the pesky algorithm "Sum All Odd Fibonacci Numbers" and now I am on challenge 272. 
++ My [Hacker Rank](http://www.hackerrank.com) algorithm rank today is *26,419*, a little better than yesterday (*27,739*) because I solved a couple of string algorithms. 
++ I signed up to start Mike Mangialardi's [Daily CSS Images](http://challenges.codingartist.io/daily-css-images/) which is a 50-day email challenge for mastering pure CSS images. To jumpstart this, I also started following along with [Mike's Course on Pure CSS Images](https://coding-artist.teachable.com/p/how-to-make-pure-css-images). So far, I'm familiar with the concepts, but I am sure to gain some skills here.
+
++ Redid a Ceasar Cipher encryption function in both javascript and python because I've been thinking about the difference in approach. 
+{% highlight javascript %}
+function cipherString(s, k) { 
+  // alpha between 65 (A) and 90 (Z)
+  var ciphertext = [];
+  for (var x = 0; x < s.length; x++){
+    var charc = s.charAt(x);
+    var c = charc.charCodeAt(0);
+    if (c >= 65 && c <= 77){
+      c += k;
+      ciphertext = ciphertext.concat(String.fromCharCode(c));
+    }
+    else if (c >= 78 && c <= 90){
+      c -= k;
+      ciphertext = ciphertext.concat(String.fromCharCode(c));
+    }
+    else {
+      ciphertext = ciphertext.concat(charc);
+    }
+  } 
+  return ciphertext.join("");
+}
+
+{% endhighlight %}
+
+{% highlight python %}
+import sys
+import string
+def cipherString(s, k):
+    low = list(string.ascii_lowercase)
+    upp = list(string.ascii_uppercase)
+    ciphertext = ""
+    for char in s:
+        if char.islower():
+            c = (low.index(char) + k)%26 # this is the shift
+            ciphertext += low[c]
+        elif char.isupper():
+            c = (upp.index(char) + k)%26 # this is the shift
+            ciphertext += upp[c]
+        else: 
+            ciphertext += char 
+    return ciphertext
+{% endhighlight %}
+
+**Thoughts**: I enjoy solving real problems. I am not a natural artist. 
+
+**Link to work**: 
+<p data-height="289" data-theme-id="0" data-slug-hash="OjbWzW" data-default-tab="result" data-user="jessachandler" data-embed-version="2" data-pen-title="Bear Cub #dailycssimages" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jessachandler/pen/OjbWzW/">Bear Cub #dailycssimages</a> by jess (<a href="https://codepen.io/jessachandler">@jessachandler</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>

@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Day 85 of 100 Days of Code"
+categories: 100DaysofCode
+---
+**Today's (and weekend) Progress**:
++ I completed a tutorial test of a react quiz application (for web)
++ I played with create react native apps using the evol application - very neat. I followed the facebook tutorial and started changing out options as I figured out what the components were.
++ I began a quiz application for my kiddos in create react native for iOS and Android.
++ I made some progress on the travel application, but a few steps back as well because it currently does not compile.
++ I tested out FSCalendar and paper onboarding.
+
+**Thoughts**:   I forgot to post updates day 83 and 84 (over the weekend). Life goes on. I really lost my patience with Xcode9 over the past few days. It keeps hanging on everything.
+
+Another #100DaysOfCode coder and I are brainstorming on how to make the leaderboard work. I think we can make a twitterbot, but I'm not sure where to host it. My current twitterbot is hosted on my computer, but I do not always have it connected.
+
+**Link to work**: [React Quiz](https://github.com/monkeywithacupcake/react-quiz)

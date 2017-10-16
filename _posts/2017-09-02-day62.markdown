@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Day 62 of 100 Days of Code"
+categories: 100DaysofCode
+---
+**Today's Progress**:
++ iOS dev: I spent a few hours figuring out how to move an app from Xcode to testflight. Once I stopped trying to use Xcode 9 beta, everything was fine. 
++ iOS dev: playing with EventKit - I made a little calendar/reminder app
+
+**Thoughts**:  I get very excited when there is a big step for a project. Today was one of those days, as I moved an app in development on my computer to the app store, even if just for internal testing. 
+<img src="/images/appUploadSuccess.png" width="100px">
+
+**Link to work**:

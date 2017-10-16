@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Day 31 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+**Today's Progress**:
++ Finished *Day 28 of 30daysofCode* on [Hacker Rank](http://www.hackerrank.com). My algorithm rank today is *29,106*, a little better than yesterday (*32,282*) because I solved a couple of string algorithms. Again, I didn't work on the currently stuck problem to speed up a count of shifts in an insertion sort mentioned yesterday.
++ Figured out how to add custom twitter card meta to a jekyll site and get the proper image to appear
++ Figured out how to add a graph using only CSS and SVG
++ Still can't do anything with [Free Code Camp](https://www.freecodecamp.com) after whatever I did on Challenge 271. 
++ Continued to struggle with getting the user login authorization to allow access to group data of which the user is a member. I'm able to successfully log a user in and create a new user, but that doesn't really help me with this use case. I did find that [Code with Chris](https://www.codewtihchris.com) had added some new content to the Intermediate Developer course that I completed earlier this year that includes making a photo application that has users accessing a feed based on friends, so I started going through it. I think I can finish the app tomorrow and then consolidate my learnings to apply to the travel app that I am making. Happily, so far, I have:
+    + Cleared up some confusion on modally presenting a login screen only if the user is not logged in
+    + Figured out how to authenticate via twitter and facebook (the default facebook button is very ugly)
+    + Learned that I will need a *working* support URL to successfully submit to the Apple store.
++ Discovered that you can use a Facebook Page for URL and you can link this if you are creating a login with facebook application
+
+**Thoughts**: It's substantially easier to understand how things work by watching them fail and trying to rebuild them when things are very simple. Plus one for making throwaway simple applications until you have something down. 
+
+**Link to work**: Not posting swift work right now

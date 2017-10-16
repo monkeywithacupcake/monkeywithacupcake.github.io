@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Round 2 Day 1 of 100 Days of Code"
+categories: 100DaysofCode
+---
+**Today's Progress**:
++ I worked my way through the instagram clone app to the point where the user can take and save photos as well as like or unlike photos that appear in their friend feed.  
+
+**Thoughts**:  
++ I continue to be impressed with the [Fusuma Swift Library](https://github.com/ytakzk/Fusuma) that offers users a clean and easy way to take pictures or select from their library with very little code effort for the developer. Woot. 
+
++ I'm a little bummed that the Power to Choose repo that I'm contributing to is not going to follow my suggestion of creating classes for offers that will include data on the tariff and link, but I still want to help. I guess it is back to making equations.
+
+**Link to work**:
++ My [PR that would extend Power to Choose](https://github.com/bwigianto/powertochoose/pull/12)
++ The related [example](https://code.sololearn.com/cAo2FlACcLpq#py)

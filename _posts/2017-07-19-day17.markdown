@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Day 17 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+**Today's Progress**:
++ Finished **Day 14 of 30daysofCode** on [Hacker Rank](http://www.hackerrank.com), but I didn't solve any algorithms, so my algorithm rank is now *77499*, worse than yesterday (*77393*).
++ Finished **Day 1 and 2 of Week of Code 34** also on [Hacker Rank](http://www.hackerrank.com). The first one was easy, the day 2 part took me several iterations to not timeout almost all of the test cases. Now, I'm down to about half of them.  
++ Added a settings screen and 4 color themes from yesterday's list of improvements for my Hats iOS application.
++ Read Ch 10 of [Clean Code by Robert Martin](http://amzn.to/2sOXBuy).
+
+**Thoughts**: I am still writing slow loopy code, but it is improving everytime I have a timeout on Hacker Rank.  
+
+**Link to work:** None to share today.
+

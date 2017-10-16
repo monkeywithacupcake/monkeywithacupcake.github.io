@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Day 39 of 100 Days of Code"
+categories: 100DaysofCode
+---
+**Today's Progress**:
++ Solved an inventory update challenge on [Free Code Camp](https://www.freecodecamp.com)
++ I made some algorithm progress on [Hacker Rank](http://www.hackerrank.com) 
++ Made a Tiger for [Daily CSS Images](http://challenges.codingartist.io/daily-css-images/)
+
+**Thoughts**: I am feeling the most resistance to the project that I "want" to complete the most.    
+
+**Link to work**:[Tiger](https://codepen.io/jessachandler/pen/brWZXE/)
+<p data-height="373" data-theme-id="0" data-slug-hash="brWZXE" data-default-tab="result" data-user="jessachandler" data-embed-version="2" data-pen-title="4 Tiger #dailycssimages" class="codepen">See the Pen <a href="https://codepen.io/jessachandler/pen/brWZXE/">4 Tiger #dailycssimages</a> by jess (<a href="https://codepen.io/jessachandler">@jessachandler</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+

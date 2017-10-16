@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 36 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+**Today's Progress**:
++ Finished Intermediate Front End Algorithms on [Free Code Camp](https://www.freecodecamp.com); now I am on challenge 281. 
++ My [Hacker Rank](http://www.hackerrank.com) algorithm rank today is *20,953*, a little better than yesterday (*22,354*) because I solved a few algorithms. 
++ Made it further through iOS / Firebase tutorial app with [Code with Chris](https://www.codewithchris.com). I am learning a lot about debugging in Swift while working through this Photo App - basically an instagram clone. Login and account creation appears to be working. Tomorrow, I can work on the part that keeps catching me...making a user able to see a group.
+
+**Thoughts**: Practice, practice, practice some more. 
+
+**Link to work**: None today

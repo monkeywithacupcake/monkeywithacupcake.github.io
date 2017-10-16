@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Day 40 of 100 Days of Code"
+categories: 100DaysofCode
+---
+**Today's Progress**:
++ Solved an inventory update challenge on [Free Code Camp](https://www.freecodecamp.com)
++ I made some algorithm progress on [Hacker Rank](http://www.hackerrank.com) 
++ Arted a Dory for [Daily CSS Images](http://challenges.codingartist.io/daily-css-images/)
+
+**Thoughts**:  I am surprised at how fast some algorithms perform over others for searching and sorting. I'm also surprised by the speed gains using pypy instead of python  
+
+**Link to work**: [Dory](https://codepen.io/jessachandler/pen/GvEXNK/)
+<p data-height="470" data-theme-id="0" data-slug-hash="GvEXNK" data-default-tab="result" data-user="jessachandler" data-embed-version="2" data-pen-title="5 Dory #dailycssimages" class="codepen">See the Pen <a href="https://codepen.io/jessachandler/pen/GvEXNK/">5 Dory #dailycssimages</a> by jess (<a href="https://codepen.io/jessachandler">@jessachandler</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>

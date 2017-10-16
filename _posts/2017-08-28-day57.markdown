@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 57 of 100 Days of Code"
+categories: 100DaysofCode
+---
+**Today's Progress**:
++ I made up for lost time as I forgot to record progress on Day 56, and I spent the entire day of Day 55 climbing Mt Fuji.
++ [Free Code Camp](https://www.freecodecamp.com)
++ [Hacker Rank](http://www.hackerrank.com) 
+**Thoughts**:   
+**Link to work**:

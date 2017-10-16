@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Day 37 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+**Today's Progress**:
++ Progressed on Advanced Front End Algorithms on [Free Code Camp](https://www.freecodecamp.com); now I am on challenge 283. 
++ I broke 20k! My [Hacker Rank](http://www.hackerrank.com) algorithm rank today is *19,717*, a little better than yesterday (*20,953*) because I solved a few algorithms. 
++ I did the second Pure CSS image challenge. I actually got the email with the image last night, but I've decided that it makes more sense to do it the next day than late at night.
++ Made it further through iOS / Firebase tutorial Photo App with [Code with Chris](https://www.codewithchris.com)  - basically an instagram clone. Still haven't gotten to the part I need to see, but the profile page development was helpful for thinking about setting up user settings. 
+
+**Thoughts**: It is easy to lose time when working on challenging but iterable problems.  
+
+**Link to work**: [Elephant](https://codepen.io/jessachandler/pen/zdZwqv/)
+<p data-height="265" data-theme-id="0" data-slug-hash="zdZwqv" data-default-tab="result" data-user="jessachandler" data-embed-version="2" data-pen-title="2 Elephant #dailycssimages" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jessachandler/pen/zdZwqv/">2 Elephant #dailycssimages</a> by jess (<a href="https://codepen.io/jessachandler">@jessachandler</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>

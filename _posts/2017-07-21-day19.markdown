@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Day 19 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+**Today's Progress**:
++ Finished **Day 16 of 30daysofCode** on [Hacker Rank](http://www.hackerrank.com), and I solved a couple of algorithms, so my algorithm rank is now *65004*, quite a bit better than yesterday (*75845*).
++ Tried but never succeeded with problem for **Day 4 of Week of Code 34** also on [Hacker Rank](http://www.hackerrank.com). Blargh. I struggled with understanding the problem until I ran out of the time that I was willing to commit to this.  
++ Improved the settings template for the 4 color themes for my Hats iOS application and shared a [little video of that on twitter](https://twitter.com/jessachandler/status/888196667547074560)
++ Read Ch 12 of [Clean Code by Robert Martin](http://amzn.to/2sOXBuy).
++ Worked on the Weather Application for [Free Code Camp]( https://www.freecodecamp.org). I wasted a whole bunch of time because I could not get it to work in Chrome, so I deleted almost everything and started over in Safari. Sadly, looks pretty much like yesterday. (code below) 
+
+**Thoughts**: I am slowly getting better at the things that I want to be able to do, and I'm able to recognize more quickly when code that I'm learning is more of a diversion than helpful. I feel like this is an important step.   
+
+**Link to work:**  [Weather App in Dev](https://codepen.io/jessachandler/pen/qjeWRM) 
+

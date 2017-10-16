@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Day 78 of 100 Days of Code"
+categories: 100DaysofCode
+---
+**Today's Progress**:
++ I designed another application to help our homeschooled kids. I've only mapped it out, but it is much less complicated than the Travel application that I am developing, so I think it will go fairly quickly.
++ I spent a little time adding a navigation controller to the modal item view.
+
+**Thoughts**: An hour is not enough to get much done on an application. 
+
+**Link to work**: None to show

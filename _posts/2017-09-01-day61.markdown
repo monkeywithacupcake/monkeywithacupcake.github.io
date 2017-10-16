@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 61 of 100 Days of Code"
+categories: 100DaysofCode
+---
+**Today's Progress**:
++ Dug through documentation on shopify to understand how checkout process is mapped. I spent a great deal of time on this, and my code today was only to test what I was seeing to understand. 
+
+**Thoughts**:  Ecommerce is complicated.
+
+**Link to work**:

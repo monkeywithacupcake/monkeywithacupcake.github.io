@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Day 42 of 100 Days of Code"
+categories: 100DaysofCode
+---
+**Today's Progress**:
++ Started working on the calculator project for [Free Code Camp](https://www.freecodecamp.com)
++ Worked on some bash tutorials in [Hacker Rank](http://www.hackerrank.com) - it's amazing how much more I can do with terminal than I have been. Didn't realize it, but there is a rank for BASH, too (just like algorithms). I don't know what I started out at, but I'm at 20,550 now...and I have a whopping 11 points. 
+
+
+**Thoughts**:  I did a tiny bit of iOS programming in XCode 9 Beta, but I was trying to work on it while outside (between things), and it really did not work for me. I just had to walk around and explore. Lesson learned - I'll do my coding inside.  
+
+**Link to work**:[Calculator Project](https://codepen.io/jessachandler/pen/LjjgyP)

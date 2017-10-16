@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Day 10 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+**Today's Progress**:
++ Read Ch 6 of [Clean Code by Robert Martin](http://amzn.to/2sOXBuy). This chapter was on objects, and it was a bit over my head. I am going to have to re-read it. I think the gist is that you should use data structures (structs or classes) to hold items in data. Then, object methods should act on these items, but your functions should not reveal the underlying structure. Now, just reading what I wrote, I am confused again. It seems to keep gelling and then oozing out of my brain.
++ Finished **Day 7 of 30daysofCode** on [Hacker Rank](http://www.hackerrank.com) and some other algorithm challenges. I am still ignoring the videos for 30daysofcode. I also solved some more implementation algorithms. My algorithm rank is now *150588*, still improving (*I was at 174380 yesterday*) for just solving a few problems today. 
++ My [@PinkFairyBook twitterbot](https://twitter.com/PinkFairyBook), finally sent its first auto tweet - that’s what I get for setting it to wait 20 hours between tweets. I actually closed the process, changed it to a couple of minutes, and I ran it again just to see the tweets. It’s currently not running. **Still TODO: I will figure out how to make it work from not my laptop.**
++ Made it through the rest of the Basic Javascript challenges in [Free Code Camp]( https://www.freecodecamp.org). I’m currently at challenge 220.  
++ Completed some Swift modules at [Sololearn](https://www.sololearn.com) - not very exciting today.
+
+**Thoughts**: Can’t believe I’m 10% of the way through this. I want to find more meaningful projects that I can iterate over on GitHub. 
+
+**Link to work:** [Pink Fairy Bot](https://github.com/monkeywithacupcake/pinkfairy-twitterbot)
+

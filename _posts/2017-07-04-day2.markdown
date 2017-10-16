@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 2 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+**Today's Progress**:
++ Finished Chapter 1 of [Clean Code by Robert Martin](http://amzn.to/2sOXBuy) I am loving this book, and I’m glad that it was recommended to me. I purchased it on kindle, but this is not the best format. If I could go back, I’d get the paper book. Of course, I just finished Chapter 1, so I don’t know how the rest of it will go.
++ Finished the HTML and CSS section on [Free Code Camp]( https://www.freecodecamp.org)
++ Worked through some issues in the travel iOS application that I am developing. I think that I am duplicating code all over the currently running application, so I need to redesign the structure, but it is close to finished for testing. One of my challenges is trying to keep the models in one place and yet share the instance of the model across multiple views. Since I’m so new to Swift and Xcode (I’ve really only made tutorial projects and a couple of simple applications), the complex structure of my travel application is testing my limits.
+  
+**Thoughts**: I am still curious to see where this challenge takes me.
+
+**Link to work**: None

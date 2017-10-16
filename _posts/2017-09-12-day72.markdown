@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Day 72 of 100 Days of Code"
+categories: 100DaysofCode
+---
+**Today's Progress**:
++ Did a bunch of additional admin on the Travel Together development and support site to ensure it was showing at traveltogetherapp.com instead of only from github.io.
++ Worked on coding the Travel Together App
+
+
+**Thoughts**: I underestimated how long it would take to pull the working but disparate pieces together. 
+
+**Link to work**: [Travel Together](http://traveltogetherapp.com)

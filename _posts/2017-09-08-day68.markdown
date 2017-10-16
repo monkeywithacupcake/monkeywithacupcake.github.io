@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 68 of 100 Days of Code"
+categories: 100DaysofCode
+---
+**Today's Progress**:
++ I figured out how to keep all of the event details but also filter down to the day by creating another struct (agendaitem) that include the event (as EKEvent) as one of its properties. I had considered subclassing EKEvent, but I had had no success with that. All of my attempts to create an array or dict from the events array and use a filtered array from that to show the daily agenda resulted in erroneous links to actually edit the event. 
+
+**Thoughts**:  So happy for this win. I need to keep this little calendar app for other tests, but move back into my main app to complete development. 
+
+**Link to work**: [MyCalendar App](https://github.com/monkeywithacupcake/MyCalendar)

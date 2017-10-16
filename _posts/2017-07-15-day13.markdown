@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 13 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+**Today's Progress**:
++ Finished **Day 10 of 30daysofCode** on [Hacker Rank](http://www.hackerrank.com). I did not solve any algorithms today, so my algorithm rank is now *128046*, which is worse than yesterday (*127846*).
++ Did a Basic Algorithm Scripting challenge in [Free Code Camp]( https://www.freecodecamp.org). I’m currently at challenge 245. The challenge that I did was just filtering for falsy in javascript. Combining boolean with filter method for array makes filtering falsy values from an array cake: ```new = arr.filter(Boolean)```
+
+**Thoughts**: I barely spent my hour coding today, and I did not accomplish much. It was a full and lovely day, but not a coding one. I'm okay with that. 
+
+**Link to work:** None
+

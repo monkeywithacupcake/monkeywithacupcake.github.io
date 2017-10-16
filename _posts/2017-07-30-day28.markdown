@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Day 28 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+**Today's Progress**:
++ Finished **Day 25 of 30daysofCode** on [Hacker Rank](http://www.hackerrank.com). I didn't even look at my algorithm rank today.
++ Finished Clean Code by Robert Martin - I liked the first part of the book better than the last part.
+
+**Thoughts**: Again I spent most of the day outside, so I only did the 30 Days of Code on Hacker Rank.  
+
+**Link to work:**  None

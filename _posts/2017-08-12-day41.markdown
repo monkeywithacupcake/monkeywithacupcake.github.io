@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Day 41 of 100 Days of Code"
+categories: 100DaysofCode
+---
+**Today's Progress**:
++ Finished Advanced Algorithm Scripting on [Free Code Camp](https://www.freecodecamp.com) - I'll be starting the Advanced Front End Development Projects tomorrow.
++ Worked on but did not pass a greedy algorithm for [Hacker Rank](http://www.hackerrank.com) 
++ Made a clock for [Daily CSS Images](http://challenges.codingartist.io/daily-css-images/)
+
+**Thoughts**: I tried out some animation today for the css image. I think I prefer the look of still images, but I can see a use for simple animations.
+
+**Link to work**:[Animated CSS Clock](https://codepen.io/jessachandler/pen/prrweM/)
+<p data-height="479" data-theme-id="0" data-slug-hash="prrweM" data-default-tab="result" data-user="jessachandler" data-embed-version="2" data-pen-title="Clock #dailycssimages" class="codepen">See the Pen <a href="https://codepen.io/jessachandler/pen/prrweM/">Clock #dailycssimages</a> by jess (<a href="https://codepen.io/jessachandler">@jessachandler</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 6 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+**Today's Progress**: 
++ Finished **Day 3 of 30daysofCode** on [Hacker Rank](http://www.hackerrank.com) and some other algorithm challenges. I ignored the video for Day 3 again and just solved the problems. For all of them, I used python3.  My rank is now *330072*, so I did not make as much progress as yesterday, but I’m still improving (*I was at 355944 yesterday*) for just solving a few simple problems today. 
++ Finished Chapter 4 of [Clean Code by Robert Martin](http://amzn.to/2sOXBuy). Wow - this chapter was on comments, and I probably need to re-read it. UncleBob says that the only good comment is the one that you figured out how not to include. I have been in the land of “comment everything that you do” but his argument makes sense. If you need to put in a comment, then your functions or names or both are not clear and implicit. It’s probably going to take me some time to stop commenting - I am guilty of all of the fails that he brings up. I comment the obvious; I comment snarky when code is frustrating; I comment to explain things that I did in a hurry. 
++ Using [Code Pen](codepen.io), I finished the first draft of my Personal Portfolio sample page for  [Free Code Camp]( https://www.freecodecamp.org). I don’t really have a portfolio of front-end development, so I mostly included stock images. Expect that this code pen will improve over time. :) 
+
+**Thoughts**: Spent very little time on code today because it is Saturday!!
+
+**Link to work**: [Personal Portfolio sample page](https://codepen.io/jessachandler/pen/eRjWvy/)

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Day 22 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+**Today's Progress**:
++ Finished **Day 19 of 30daysofCode** on [Hacker Rank](http://www.hackerrank.com), and I solved an algorithm, so my algorithm rank is now *60628*, better than yesterday (*63805*). 
++ ~Started the Wikipedia application for [Free Code Camp]( https://www.freecodecamp.org). I spent 2 hours trying to figure out how to solve the [object Error]{} I'm getting when trying to print the output of the wikipedia api response.~ Came back to the problem after working on some other tasks, and it is working now.  (code below) 
+
+**Thoughts**: ~I will try the wikipedia thing again tomorrow.~ I will build the Twitch.tv JSON challenge tomorrow.    
+
+**Link to work:**  [Wikipedia app](https://codepen.io/jessachandler/pen/aybmxZ)  

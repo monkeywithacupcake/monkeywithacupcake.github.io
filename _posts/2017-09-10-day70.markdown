@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 70 of 100 Days of Code"
+categories: 100DaysofCode
+---
+**Today's Progress**:
++ started a clean new version of the travel app to pull all of the pieces together.
++ created a twitter poll to determine the app name
++ purchased relevant domain names
++ created a github page for the app
+
+**Thoughts**:  I switched back to swift because I really, really want to finish my group travel app. I want to get back to reactjs, but I have to publish this app.
+
+**Link to work**: none today

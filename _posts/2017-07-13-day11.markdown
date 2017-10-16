@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Day 11 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+**Today's Progress**:
++ Read the first part of Ch 7 of [Clean Code by Robert Martin](http://amzn.to/2sOXBuy), which is all about error handling. I am familiar with try/catch statements from python and some error handling in R, but I haven't had a lot of experience with catching errors. I think this will before more important as I create more applications. 
++ Finished **Day 8 of 30daysofCode** on [Hacker Rank](http://www.hackerrank.com) and some other algorithm challenges. I am still ignoring the videos for 30daysofcode. I also solved one more implementation algorithm today, so my algorithm rank is now *136019*, still improving (*I was at 150588 yesterday*).. 
++ Made it through Object Oriented and Functional Programming and about half of the Basic Algorithm Scripting challenges in [Free Code Camp]( https://www.freecodecamp.org). I’m currently at challenge 240.  
++ Finished through functions and closures in the Swift modules at [Sololearn](https://www.sololearn.com), and I started Object-Oriented Programming.
++ Mailed all of the required documents to get a DUNS number and put apps in the iOS app store. I've already written two completely functional (but still ugly) apps, and I am working on a huge travel app. This is probably my most exciting coding related news today even though it is not code at all.
+
+**Thoughts**: I still need to figure out what to do to make my twitter bot not dependent on my laptop. 
+
+**Link to work:**
+

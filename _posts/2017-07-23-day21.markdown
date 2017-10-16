@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Day 21 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+**Today's Progress**:
++ Finished **Day 18 of 30daysofCode** on [Hacker Rank](http://www.hackerrank.com), and I solved an algorithm, so my algorithm rank is now *63805*, better than yesterday (*65004*).
++ Updated my Hats iOS application to grey out background for obligations that ended before today. I played with adding an archive section and allowing sorting. Both seemed too much for such a simple app.
++ Read Ch 13 of Clean Code by Robert Martin - this chapter is on Concurrency, which is a big deal with the iOS travel application that I've been working on (but not in the last few days at least). The details are mostly new to me although I have some brute force asynchronous work. I have not done any testing of threads, but I can see value in this. 
++ Finished my Weather Application for [Free Code Camp]( https://www.freecodecamp.org). It gets the weather conditions and temperature, prints location and whether it is time to sleep, go outside (if weather is pleasant), or stay inside (if weather is not pleasant). I shared this with the local FCC group and finally understood why getElementsByClass() was not working as I thought - getElementsByClass() returns an array, it does not automatically select all items in that array. It is no longer part of the weather application because I changed my mind on how to present, but I'm glad to learn.  (code below) 
+
+**Thoughts**: I had a lot of fun updating the weather app today, and I look forward to making more improvements. I had to stop working on it so I could focus on other things today.   
+
+**Link to work:**  [Weather App](https://codepen.io/jessachandler/pen/qjeWRM) 
+
+<p data-height="232" data-theme-id="0" data-slug-hash="qjeWRM" data-default-tab="result" data-user="jessachandler" data-embed-version="2" data-pen-title="Simply Weather" class="codepen">See the Pen <a href="https://codepen.io/jessachandler/pen/qjeWRM/">Simply Weather</a> by jess (<a href="https://codepen.io/jessachandler">@jessachandler</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>

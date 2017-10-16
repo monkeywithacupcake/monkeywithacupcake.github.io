@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Day 64 of 100 Days of Code"
+categories: 100DaysofCode
+---
+**Today's Progress**:
++ iOS dev: I spent most of the day working through the concepts that I needed to understand for a calendar:
+    + making a button to return to or scroll to a specific date
+    + showing the events in a particular calendar when the day is clicked
+    + indicating a free day
+    + indicating a busy day
+
+**Thoughts**:  I feel empowered since I solved a design problem and a git problem today. 
+
+**Link to work**: [My updates to EventTracker](https://github.com/monkeywithacupcake/EventTracker)

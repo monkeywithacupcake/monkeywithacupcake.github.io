@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Day 32 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+**Today's Progress**:
++ Finished *Day 29 of 30daysofCode* on [Hacker Rank](http://www.hackerrank.com) which is somehow also the end, so I guess my confusion last month about day 1 being day 0, well...that was valid. 
++ My algorithm rank on [Hacker Rank](http://www.hackerrank.com) today is *27,739*, a little better than yesterday (*29,106*). Solved a string algorithm which was to figure out if a string had the same number of each letter or could be changed to a string like that by only removing one letter.  I solved it using two counters, but the editorial suggests solving it by using a counter and then removing one character at a time to see if all of the others are the same. Here's my approach that passed all tests. 
+
+    {% highlight python %}
+    def isValid(s):
+        counts = Counter(s) # frequency of each char
+        counts = counts.most_common() # turns the Counter dict into a list of key, value tuples
+        counts = [item[1] for item in counts] # just get the values out as a list
+        if counts.count(counts[0]) == len(counts): # all are the same (same as len(set(counts)) == 1)
+            return "YES"
+        else: 
+            x = Counter(counts)
+            if len(x) == 2 and any(val == 1 for val in x.values()):
+                return "YES"
+            else:
+                return "NO"
+    {% endhighlight %}
+    
+    I think it could be simplified (code simplification, actually slower if many are all the same) to:
+    
+    {% highlight python %}
+    def isValid(s):
+        counts = Counter(s) # frequency of each char
+        counts = counts.most_common() # turns the Counter dict into a list of key, value tuples
+        counts = [item[1] for item in counts] # just get the values out as a list
+        x = Counter(counts)
+        if len(x) == 1 or (len(x) == 2 and any(val == 1 for val in x.values())):
+            return "YES"
+        else: 
+            return "NO"
+    {% endhighlight %}
+
++ Supported some updates to a program in Excel VBA; man, do I not like VBA. The error statements are frustratingly vague, and sometimes a typo will just crash the program. However, I learned something very valuable today. If you are working with large data sets in Excel's mind (more than about 65,000 rows), you will get Type Mismatch errors when trying to perform functions, such as creating a Pivot Table. An easy work around is to name the range that you want to work with and then just use the named range (rather than the Set range as variable) to do whatever. 
+
+**Thoughts**:  I'm happy to reflect back on what I've gained by looking at different problems (that I've never faced in real work before) through the 30 Days of Code on Hacker Rank. I think I'll continue to do the algorithm challenges there to gain new skills and ways of thinking about problems and solutions. 
+
+**Link to work**: None today.

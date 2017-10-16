@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Day 50 of 100 Days of Code"
+categories: 100DaysofCode
+---
+**Today's Progress**:
++ Worked on pomodoro timer [Free Code Camp](https://www.freecodecamp.com)
++ Finished more of the iOS instagram clone.
+
+**Thoughts**:   I  struggled with the pomodoro timer today.
+
+**Link to work**: None

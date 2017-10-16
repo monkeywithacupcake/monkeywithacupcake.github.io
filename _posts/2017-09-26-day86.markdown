@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Day 86 of 100 Days of Code"
+categories: 100DaysofCode
+---
+**Today's Progress**:
++ Changed the underlying Firebase data structure for the travel app to next items under trips. The new code is much faster.
++ Figured out how to create a new trip with a new person at the same time into firebase - where child thread was throwing an exception.
++ Created a day agenda that catches issues with the trip - this will be good on first view of the trip list, on print, for the warnings view, and also for the calendar view. 
++ Learned about Amazon serverless tech at Amazon Japan with WWC Tokyo
+
+{% highlight swift %}
+func saveNewTripToDatabase(name: String, uname: String){
+        let dateString = String(describing: Date())
+        let owner = String(describing: Auth.auth().currentUser!.uid)
+        let key = ref.child("trips").childByAutoId().key
+        let firstpersonkey = ref.child("trips").child(key).child("members").childByAutoId().key
+        let trip = ["name": name,
+                    "owner": owner,
+                    "created": dateString,
+                    "updated": dateString, // this next is what I was missing
+                    "members": [firstpersonkey : ["userid": owner,
+                                                  "name": uname]]] as [String : Any]
+        let tripUpdates = ["/trips/\(key)": trip,
+                           "/users/\(owner)/trips/\(key)/": true] as [String : Any]
+       // ... error handling, delegate returns...
+       }
+{% endhighlight %}
+
+**Thoughts**:   Spent 30 minutes at Tully's just waiting on the simulator to launch - blargh!!! I can't wait for my ram to show up. 
+
+**Link to work**:
