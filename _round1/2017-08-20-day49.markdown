@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Day 49 of 100 Days of Code"
-categories: 100DaysofCode
----
-**Today's Progress**:
-+ Worked on pomodoro timer[Free Code Camp](https://www.freecodecamp.com)
-+ Solved some greedy algorithms for [Hacker Rank](http://www.hackerrank.com) 

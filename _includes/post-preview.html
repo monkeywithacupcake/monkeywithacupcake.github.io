@@ -1,5 +1,0 @@
-{% if post.title %}
-  {{ post.title }}
-  {{ post.date | date_to_string }}
-{% endif %}
-{{ post.excerpt | strip_html | truncatewords:30 }}
