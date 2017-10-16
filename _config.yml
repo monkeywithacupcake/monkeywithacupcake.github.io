@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 date_format: "%Y-%m-%d"
-permalink: none 
+permalink: /:year/:month/:title.html 
 title: Monkey With A Cupcake
 #email: your-email@example.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -59,6 +59,7 @@ pagination:
   limit        : 0
   sort_field   : "date"
   sort_reverse : true
+
 
 
 # Exclude from processing.

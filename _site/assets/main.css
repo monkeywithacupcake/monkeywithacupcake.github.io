@@ -206,3 +206,13 @@ a, a.link, a:hover, a:visited { color: #ff6b35; }
 .rbaxis { align-content: left; width: 100px; border-left: 1px solid black; border-bottom: 1px solid black; }
 
 .hrgraphtext { font-size: .8em; }
+
+.nav-trigger { display: none; }
+
+.trigger { float: right; }
+
+label[for="nav-trigger"] { display: block; float: right; width: 36px; height: 36px; z-index: 2; cursor: pointer; }
+
+input ~ .trigger { clear: both; display: none; }
+
+input:checked ~ .trigger { display: block; padding-bottom: 5px; }
