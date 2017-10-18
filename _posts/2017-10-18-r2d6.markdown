@@ -1,0 +1,185 @@
+---
+layout: post
+title:  "Round 2 Day 6 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+I guess technically yesterday was day 6, but I was travelling up to another part of Japan to see a neat-o samurai parade and the Nikkō Tōshō-gū (日光東照宮) shrine. We had been up there before, but last time, it was pouring down rain and the fancy shrine gates were all under repairs. This time, we got to see them. Beautiful artwork. Shinto shrine established in 1617 to enshrine Tokugawa Ieyasu, the first shogun of the Tokugawa shogunate. I learned that Ieyasu was very much interested in world peace, so there are many symbols of peace there. The best, of course, is a little sleepy kitty that is resting even though there are sparrows nearby. 
+
+A famous poem by Ieyasu is placed on a placard on the way up to his burial area, and it basically translates that "we should walk through life slowly, as if we are carrying a heavy burden, rather than rush." Sorry, I can't make that poetic in English. I'm trying to learn from wise Ieyasu and not rush so much. After all, he also says that we seek success, but if we gain it too early in life, what will we have remaining to live for? **Aside: I seek time to be outside in the sunshine - I'm not sure if this is success or not.**
+
+## Today's Progress
++ I finally built a nice little view where everyone who is going on a trip shows up for each item, activity, lodging, or travel for the trip. They get a little blue check mark if they are part of the activity. The default is that everyon on a trip will participate in everything, but there are definitely times when this is not true.
+
+This solution includes a check mark that I borrowed from Stack Overflow. My original check mark did not look like the UI that users may be used to, so I changed it up to match in accordance with Apple Design Guidelines. If you want to implement a little green check mark on collection view cells (or table view cells, kinda any cell), you can use this method [ported from Skaarup's answer on Stack Overflow](https://stackoverflow.com/questions/18977527/how-do-i-display-the-standard-checkmark-on-a-uicollectionviewcell/42426809#comment80557043_42426809).
+
+Create a new custom swift view class file and paste this in *note, this makes the custom UIView called SSCheckMark...which you can rename*: 
+
+{% highlight swift %}
+import UIKit
+
+enum SSCheckMarkStyle : UInt {
+    case OpenCircle
+    case GrayedOut
+}
+
+class SSCheckMark: UIView {
+
+    private var checkedBool: Bool = false
+    // choose whether you like open or grayed out non-selected items
+    private var checkMarkStyleReal: SSCheckMarkStyle=SSCheckMarkStyle.GrayedOut
+
+    var checked: Bool {
+        get {
+            return self.checkedBool
+        }
+        set(checked) {
+            self.checkedBool = checked
+            self.setNeedsDisplay()
+        }
+    }
+
+    var checkMarkStyle: SSCheckMarkStyle {
+        get {
+            return self.checkMarkStyleReal
+        }
+        set(checkMarkStyle) {
+            self.checkMarkStyleReal = checkMarkStyle
+            self.setNeedsDisplay()
+        }
+    }
+
+    override func draw(_ rect: CGRect) {
+        super.draw(rect)
+        if self.checked {
+            self.drawRectChecked(rect: rect)
+        } else {
+            if self.checkMarkStyle == SSCheckMarkStyle.OpenCircle {
+                self.drawRectOpenCircle(rect: rect)
+            } else if self.checkMarkStyle == SSCheckMarkStyle.GrayedOut {
+                self.drawRectGrayedOut(rect: rect)
+            }
+        }
+    }
+
+    func drawRectChecked(rect: CGRect) {
+        let context = UIGraphicsGetCurrentContext()
+        let checkmarkBlue2 = UIColor(red: 0.078, green: 0.435, blue: 0.875, alpha: 1)
+        let shadow2 = UIColor.black
+
+        let shadow2Offset = CGSize(width: 0.1, height: -0.1)
+        let shadow2BlurRadius = 2.5
+        let frame = self.bounds
+        let group = CGRect(x: frame.minX + 3, y: frame.minY + 3, width: frame.width - 6, height: frame.height - 6)
+
+        let checkedOvalPath = UIBezierPath(ovalIn: CGRect(x: group.minX + floor(group.width * 0.00000 + 0.5), y: group.minY + floor(group.height * 0.00000 + 0.5), width: floor(group.width * 1.00000 + 0.5) - floor(group.width * 0.00000 + 0.5), height: floor(group.height * 1.00000 + 0.5) - floor(group.height * 0.00000 + 0.5)))
+
+        context!.saveGState()
+        context!.setShadow(offset: shadow2Offset, blur: CGFloat(shadow2BlurRadius), color: shadow2.cgColor)
+        checkmarkBlue2.setFill()
+        checkedOvalPath.fill()
+        context!.restoreGState()
+        UIColor.white.setStroke()
+        checkedOvalPath.lineWidth = 1
+        checkedOvalPath.stroke()
+        let bezierPath = UIBezierPath()
+        bezierPath.move(to: CGPoint(x: group.minX + 0.27083 * group.width, y: group.minY + 0.54167 * group.height))
+        bezierPath.addLine(to: CGPoint(x: group.minX + 0.41667 * group.width, y: group.minY + 0.68750 * group.height))
+        bezierPath.addLine(to: CGPoint(x: group.minX + 0.75000 * group.width, y: group.minY + 0.35417 * group.height))
+        bezierPath.lineCapStyle = CGLineCap.square
+        UIColor.white.setStroke()
+        bezierPath.lineWidth = 1.3
+        bezierPath.stroke()
+    }
+
+    func drawRectGrayedOut(rect: CGRect) {
+        let context = UIGraphicsGetCurrentContext()
+        let grayTranslucent = UIColor(red: 1, green: 1, blue: 1, alpha: 0.6)
+        let shadow2 = UIColor.black
+        let shadow2Offset = CGSize(width: 0.1, height: -0.1)
+        let shadow2BlurRadius = 2.5
+        let frame = self.bounds
+        let group = CGRect(x: frame.minX + 3, y: frame.minY + 3, width: frame.width - 6, height: frame.height - 6)
+        let uncheckedOvalPath = UIBezierPath(ovalIn: CGRect(x: group.minX + floor(group.width * 0.00000 + 0.5), y: group.minY + floor(group.height * 0.00000 + 0.5), width: floor(group.width * 1.00000 + 0.5) - floor(group.width * 0.00000 + 0.5), height: floor(group.height * 1.00000 + 0.5) - floor(group.height * 0.00000 + 0.5)))
+
+        context!.saveGState()
+        context!.setShadow(offset: shadow2Offset, blur: CGFloat(shadow2BlurRadius), color: shadow2.cgColor)
+        grayTranslucent.setFill()
+        uncheckedOvalPath.fill()
+        context!.restoreGState()
+        UIColor.white.setStroke()
+        uncheckedOvalPath.lineWidth = 1
+        uncheckedOvalPath.stroke()
+        let bezierPath = UIBezierPath()
+
+        bezierPath.move(to: CGPoint(x: group.minX + 0.27083 * group.width, y: group.minY + 0.54167 * group.height))
+        bezierPath.addLine(to: CGPoint(x: group.minX + 0.41667 * group.width, y: group.minY + 0.68750 * group.height))
+        bezierPath.addLine(to: CGPoint(x: group.minX + 0.75000 * group.width, y: group.minY + 0.35417 * group.height))
+        bezierPath.lineCapStyle = CGLineCap.square
+        UIColor.white.setStroke()
+        bezierPath.lineWidth = 1.3
+        bezierPath.stroke()
+    }
+
+    func drawRectOpenCircle(rect: CGRect) {
+        let context = UIGraphicsGetCurrentContext()
+        let shadow = UIColor.black
+        let shadowOffset = CGSize(width: 0.1, height: -0.1)
+        let shadowBlurRadius = 0.5
+        let shadow2 = UIColor.black
+        let shadow2Offset = CGSize(width: 0.1, height: -0.1)
+        let shadow2BlurRadius = 2.5
+        let frame = self.bounds
+        let group = CGRect(x: frame.minX + 3, y: frame.minY + 3, width: frame.width - 6, height: frame.height - 6)
+        let emptyOvalPath = UIBezierPath(ovalIn: CGRect(x: group.minX + floor(group.width * 0.00000 + 0.5), y: group.minY + floor(group.height * 0.00000 + 0.5), width: floor(group.width * 1.00000 + 0.5) - floor(group.width * 0.00000 + 0.5), height: floor(group.height * 1.00000 + 0.5) - floor(group.height * 0.00000 + 0.5)))
+
+        context!.saveGState()
+        context!.setShadow(offset: shadow2Offset, blur: CGFloat(shadow2BlurRadius), color: shadow2.cgColor)
+
+        context!.restoreGState()
+        context!.saveGState()
+        context!.setShadow(offset: shadowOffset, blur: CGFloat(shadowBlurRadius), color: shadow.cgColor)
+        UIColor.white.setStroke()
+        emptyOvalPath.lineWidth = 1
+        emptyOvalPath.stroke()
+        context!.restoreGState()
+
+    }
+}
+{% endhighlight %}
+
+Then, in your cell that you want to have the ability to check mark, addthis:
+
+{% highlight swift %}
+ var checkmarkView: SSCheckMark!
+
+    override func awakeFromNib() {
+        super.awakeFromNib()
+        checkmarkView = SSCheckMark(frame: CGRect(x: frame.width-40, y: 10, width: 35, height: 35))
+        checkmarkView.backgroundColor = UIColor.white
+        self.addSubview(checkmarkView)
+    }
+    
+    required init?(coder aDecoder: NSCoder) {
+        super.init(coder: aDecoder)
+    }
+{% endhighlight %}
+
+And in the view controller that is using the cell, in the method for `cellForItemAt:`
+
+{% highlight swift %}
+// let cell = whateverYourCellis., like:
+//let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "CustomCell", for: indexPath) as? MyCollectionViewCell
+//then set up cell however and use logic to turn the checkmark on or off
+cell.checkmarkView.checked = false
+// sub own logic
+if data.first(where: { $0 == this.id }) != nil {
+    cell.checkmarkView.checked = true
+}
+{% endhighlight %}
+
+## Thoughts  
+**First Things First** I accomplished the primary goal on my ETP today. I did not think it would take very long, and I would get to some other things today. However, I'm wrapping up this writing just before I need to go make dinner, so this is a just barely made it kinda day. I did many other things today, but I did them out of order, clearly. Some things, like working with my homeschooled kiddos on how to scaffold and fill in an essay were more important than my own coding goals. Others, like reading about how to develop a chrome extension or futzing through the code behind a todo app, were not. I'm going to continue working on focusing my dev time where it needs to be focused.
+
+## Link to work
+None posted today
