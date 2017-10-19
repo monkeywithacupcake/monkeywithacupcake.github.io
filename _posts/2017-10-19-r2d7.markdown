@@ -9,7 +9,10 @@ categories: 100DaysofCode
 
 <img src="/images/pigfxshot.png" width="200px"/>
 
-+ I spent some time in swift playgrounds figuring out how to do a few things programmatically without the storyboard. I created my first Gist with this.
++ I spent some time in swift playgrounds figuring out how to do a few things programmatically without the storyboard. I created my first Gist with this. It inclues: creating a stack view, creating a collection view that is horizontal only, and using unicode characters as graphics.
+
+<img src="/images/gistunicodeshot.png" width="600px"/>
+
 + Contributed to the repo for [If you know X then Y](https://github.com/GersonLazaro/learn-x-if-you-know-y) 
 
 ## Thoughts  
