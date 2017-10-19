@@ -4,10 +4,11 @@ title:  "Round 2 Day 7 of 100 Days of Code"
 categories: 100DaysofCode
 ---
 
-So much to do. I feel stuck in place when I pick up a little side project that ends up taking me all day.
-
 ## Today's Progress
-+ I started building a website for my awesomely talented kiddo. I'm trying to make it a little artsy, but I hope to pass it off to him and he can maintain it. 
++ I started building a website for my awesomely talented kiddo. I'm trying to make it a little artsy, but I hope to pass it off to him and he can maintain it. Not finished yet. 
+
+<img src="/images/pigfxshot.png" width="200px"/>
+
 + I spent some time in swift playgrounds figuring out how to do a few things programmatically without the storyboard. I created my first Gist with this.
 + Contributed to the repo for [If you know X then Y](https://github.com/GersonLazaro/learn-x-if-you-know-y) 
 
