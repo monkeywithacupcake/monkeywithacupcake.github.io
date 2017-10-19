@@ -8,7 +8,8 @@ So much to do. I feel stuck in place when I pick up a little side project that e
 
 ## Today's Progress
 + I started building a website for my awesomely talented kiddo. I'm trying to make it a little artsy, but I hope to pass it off to him and he can maintain it. 
-+ I spent some time in swift playgrounds figuring out how to do a few things programmatically without the storyboard.
++ I spent some time in swift playgrounds figuring out how to do a few things programmatically without the storyboard. I created my first Gist with this.
++ Contributed to the repo for [If you know X then Y](https://github.com/GersonLazaro/learn-x-if-you-know-y) 
 
 ## Thoughts  
 **Brain dead today** Static sites are fun. 
