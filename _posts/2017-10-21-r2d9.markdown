@@ -2,7 +2,7 @@
 layout: post
 title:  "Round 2 Day 9 of 100 Days of Code"
 categories: 100DaysofCode
-image: screenshot-main.png
+image: screenshot-sub.png
 ---
 
 ## Today's Progress
