@@ -40,8 +40,8 @@
     <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
   {% endif %}
   {% if page.image %}
-    <meta content="images/{{ page.image }}" property="og:image">
-    <meta property="og:image" content="images/{{ page.image }}" />
+    <meta content="https://monkeywithacupcake.github.io/images/{{ page.image }}" property="og:image">
+    <meta property="og:image" content="https://monkeywithacupcake.github.io/images/{{ page.image }}" />
   {% else %}
     <meta content="https://monkeywithacupcake.github.io/images/MonkeyWithCupcake.png" property="og:image">
   {% endif %}
