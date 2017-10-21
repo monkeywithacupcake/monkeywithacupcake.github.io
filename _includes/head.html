@@ -7,11 +7,13 @@
     <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
     <meta name="keywords" content="{{ page.keywords | default: "coding, swift, front-end, analysis" }}" >
     <!-- twitter summary card -->
-    <meta name="twitter:card" content="summary" />
+    <!--<meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@jessachandler" />
     <meta name="twitter:title" content="100DaysofCode for monkeywithacupcake" />
     <meta name="twitter:description" content="follow along" />
     <meta name="twitter:image" content="https://monkeywithacupcake.github.io/images/MonkeyWithCupcake.png">
+-->
+    {% include twittercard.html %}
     <!-- end of twitter summary card -->
     
     <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
