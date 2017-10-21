@@ -92,3 +92,13 @@ input:checked ~ .trigger {
     padding-bottom: 5px;		              
 }		          
 
+/* Image Global Styles
+  ------------------------------------	*/
+.narrow-img {
+  max-width: 200px;
+  padding: 0 10px;
+}
+.wide-img{
+  max-width: 600px;
+  padding: 0px;
+}

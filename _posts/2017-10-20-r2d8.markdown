@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Round 2 Day 8 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+## Today's Progress
++ Recreated Crushing It application from scratch to get through some conversion to swift 4 errors. This is an application that I made to track things that you want to do for a certain number of times.
++ Pushed out another little gist after I struggled with some layout and did not want to use the storyboard. My searches on Stack Overflow suggested that other folks had the same issues. 
++ I started working on a website for my artsy talented kiddo. Got stuck on some jekyll crazyness.
+
+## Thoughts  
+**Code can bring joy** My younger kiddo sat with me and found out that you don't have to be some kind of a genius to do really cool stuff with code. I was so happy to see him light up when he realized that he had the power to: change the font, change the color, etc. Really simple stuff that is the kind of control that gets us all excited. So, even though I was feeling stuck and not sure why I was breaking things, he reminded me that it is really fun...and that is why we code.  
+
+## Link to work
++[A little gist that shows how to fix some layout issues and set up simple animations on actions in swift](https://gist.github.com/monkeywithacupcake/3d05d779a1e7f44badc5ff0ece551185)

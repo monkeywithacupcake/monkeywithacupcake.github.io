@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Round 2 Day 9 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+## Today's Progress
++ I finished development of a website for my artsy talented kiddo. He still has to update the actual projects.
+![Main Site](/images/screenshot-main.png){:class="narrow-img"}
+![A post](/images/screenshot-sub.png){:class="wide-img"}
+
+
+
+
+## Thoughts  
+**Some things just take time** It took me about 2 hours of solid work to find my error from yesterday and another few hours to rebuild everything and get it all online. I'm p
+
+## Link to work
++[I build this site](http://p1gfx.com)
