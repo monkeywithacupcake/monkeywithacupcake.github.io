@@ -18,3 +18,5 @@ It is pouring rain here (after two weeks of PNW like weather) ahead of Typhoon L
 
 NOTE: The terrible colors are intentional. 
 
+## Thoughts
+**Collection Views in Swift** I have been spending quite a bit of time playing with collection views trying to update my Crushing it application to swift 4 with the behavior that I want and without any storyboards. I stumbled across [an excellent article on the layouts for collection views](http://martiancraft.com/blog/2017/05/collection-view-layouts/) today. I appreciated the clarity with the supplementary and decorative views that I have not really used much, but can see a use for in the future. 
