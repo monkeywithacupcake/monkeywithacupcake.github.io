@@ -3,6 +3,7 @@ layout: post
 title:  "Round 2 Day 10 of 100 Days of Code"
 categories: 100DaysofCode
 image: screenshotstackview.png
+cardsize: large
 ---
 
 It is pouring rain here (after two weeks of PNW like weather) ahead of Typhoon Lan. I went outside twice to play in the rain. It was fun - a little bit chilly, but fun. I splashed in the puddles and ran through the grass and stood by the Tokyo Bay as it splashed up at me. I looked like a crazy person, but that is just because I was not being all serious and stuffy like the other people I saw out - all bundled up and hiding from the day. 

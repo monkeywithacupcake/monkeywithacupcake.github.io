@@ -1,5 +1,14 @@
 
-  <meta name="twitter:card" content="summary">
+  
+
+  <!-- Set a summary card size to large, or default to regular  -->
+  {% if page.cardsize == large %}
+    <meta name="twitter:card" content="summary_large_image">
+  {% else %}
+    <meta name="twitter:card" content="summary">
+  {% endif %}
+
+  <!-- set key defaults -->
   <meta name="twitter:site" content="@jessachandler">
   <meta name="twitter:creator" content="@jessachandler">
 
