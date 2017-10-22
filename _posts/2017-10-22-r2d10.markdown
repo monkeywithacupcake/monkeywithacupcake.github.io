@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Round 2 Day 10 of 100 Days of Code"
+categories: 100DaysofCode
+image: screenshotstackview.png
+---
+
+It is pouring rain here (after two weeks of PNW like weather) ahead of Typhoon Lan. I went outside twice to play in the rain. It was fun - a little bit chilly, but fun. I splashed in the puddles and ran through the grass and stood by the Tokyo Bay as it splashed up at me. I looked like a crazy person, but that is just because I was not being all serious and stuffy like the other people I saw out - all bundled up and hiding from the day. 
+
+## Today's Progress
++ I helped my kiddo take ownership of his own website after a short tutorial on: git, github, markdown, css, liquid, and jekyll. It all seemed like I should have been able to build it and learn all that stuff much faster. hehe. 
++ I solved a hairy issue with reusing custom UIViews that had been eluding me for some time. The main issue was that I was not setting up the bounds/constraints for the views in a way that my view controller could see them. I'm super excited because I prefer to not use the storyboard if I can help it, but all of the books/tutorials that I've used start in the storyboard - it's nonsense if you want to reuse pieces.
+![Super Exciting Stack View](/images/screenshotstackview.png){:class="wide-img"} - see [Gist for Super Exciting Stack View](https://gist.github.com/monkeywithacupcake/f8288e47d30dbcc0316cbd0b3dbe7db3)
+
++ Also, I spent more time on animations today and figured out how to combine them to keep the animations out of my view controllers. woot. 
+![View Animations in Extensions](/images/collectionAnimate.mov){:class="wide-img"}  - see [Gist for View Animations in Extensions](https://gist.github.com/monkeywithacupcake/4fe632c3373b7281359237fb160757af)
+
+
+NOTE: The terrible colors are intentional. 
+
