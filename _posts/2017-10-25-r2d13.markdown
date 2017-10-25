@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Round 2 Day 13 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+My favorite current words are "build succeeded". I have happily cleaned up a bunch of code today as I realized a better and faster way to do things. I'm still loving life in Xcode with Swift 4 and without the storyboard. 
+
+## Today's Progress
++ I edited my personal website to include some data from a project I did in 2009. Feels like ancient history. In the process, I needed to upload the site to the hosting provider's server. I made two silly errors. First, I tried to upload my served version of the site from `bundle exec jekyll serve` which does not work. Do not do that. The canonical links will be to localhost. Then, when I was less crazy and uploaded the built version (`bundle exec jekyll build`), I nearly overwrote anoter bin. Needless to say, I caught myself, but it was a mess.
+
++ I cleaned up the core data and persistence behavior of the Crushing It application. 
+
++ I failed so, so, so miserably to get sound to work when the user taps a button. From what I've heard, this is important. I always use applications on silent, so I am not real sure why it is important. I may drop it if it is the only remaining issue after another attempt. 
+
