@@ -9,7 +9,8 @@ cardsize: large
 If you make an application use features that are only available from the current iOS, it is super a pain in the bootie to adjust to make it work on previous versions. In other news, I updated my iPhone to iOS 11 today.
 
 ## Today's Progress
-+ I sent Crushing It to the App Store for Testing. Yeah, that's pretty much it. Ok, that action followed others. 
++ I sent Crushing It to the App Store for Testing. Yeah, that's pretty much it. Ok, that action followed others. Update: when I posted my update to twitter, I saw this post and realized that I have a typo on the color table. One "chose" and one "choose"...hmmm. I'll wait for tester feedback. 
+
 ![Crushing It Shots](/images/simulator_crushing.png){:class="wide-img"} 
 
 
