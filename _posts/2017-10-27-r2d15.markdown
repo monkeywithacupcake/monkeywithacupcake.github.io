@@ -1,0 +1,71 @@
+---
+layout: post
+title:  "Round 2 Day 15 of 100 Days of Code"
+categories: 100DaysofCode
+image: iOSUnderReview.png
+cardsize: large
+---
+
+
+
+## Today's Progress
++ Added sound back to the Crushing It application
++ Replaced the grey theme with a green theme
++ Submitted the Crushing It application to the app store
+![App Under Review](/images/iOSUnderReview.png){:class="wide-img"} 
+
+
+## Thoughts  
+**First Pass At a Guide to Indie Apps For Me** Developers producing applications on their own have so many resources for learning how to building and test features in applications. There are many tutorials and guides and even github repos dedicated to this. However, There are far fewer resources for the administrative side of application development, probably because it is so hairy and so unsexy. Here, I'm making a first pass at describing how I understand it (now) in my naive state.
+
+0. Get an Apple Developer Account (Set up a business or whatever if you don't want your applications to have your name as the provider.) You need this anyways to test your applications on real devices, even if you never want to sell an application.
+1. Build your application.
+2. Test it on whatever devices you are targetting.
+3. Determine what sort of versioning that you will use. Something like 1.0.1 or 1.1 is fine as long as the stuff to the right most side of the decimals is the smallest amount of change and a change of the version is more. For example, 1.1 to 1.2 is less of a difference than 1.1 to 2.1. 
+3. Commit all of what you have done to this point. If you are on the second or later pass at uploading, be sure to change the version number in your application. If you don't, you will get an ugly **FAILED** notice when you try to upload the archive. The version is under "Project/Target/Identity". My trick here is to update it to the next bit as soon as the previous archive is updated, so if I make any changes, I'm already on the next version.
+4. Decide which screenshots are important and if you need little videos. You can have up to 5 screenshots and up to 3 videos. Make sure that you know where they are and can upload them when you upload your app.
+5. Ready? Ok. Ensure that your **Product/Destination** is set to "Generic iOS Device"
+6. Select **Product/Archive** which will make an archive build of your application to upload. Then, it will open up an interface from which to upload the application. 
+7. When the interface is up, put something in the description box. I don't know what happens to this text. Unfortunately, it does not magically pull those well written commit messages since the last build. 
+8. Click "Upload to App Store" - it's a bright blue button. It will do some stuff and ask you to check boxes. Click 'Next' twice. 
+9. Go to iTunes Connect and log in. 
+10. Click on 'Activity'. You should see the version that you just uploaded as processing. It seems to take forever. 
+11. Eventually, (Processing) will be replaced by !Missing Compliance which tells you "This build is missing export compliance information. Provide Export Compliance Information." Click on it. Answer the mysterious question, "Export Compliance Information: Does your app use encryption? Select Yes even if your app only uses the standard encryption in iOS and macOS." If you click "no" - this warning comes up, "If you are making use of ATS or making a call to HTTPS please note that you are required to submit a year-end self classification report to the US government. [Learn more](https://www.bis.doc.gov/informationsecurity2016-updates)". However, if you click yes, a whole other ball of wax appears. Take some time to figure out if it applies. If you authenticate or otherwise share information in the interwebs, this applies to your app. Super important. 
+12. Once you submit here, all internal testers will get a testflight update. If you don't have internal testers, you can set them up in "All Testers".
+13. If you actually want to submit the version, you need to go into app testing. Fill out a bunch of fields, but also:
+ a. a URL - it can be a twitter account or facebook page. You need a unique email for another twitter account. 
+ b. In App Images and video:  up to 5 screenshots, and up to 3 app preview videos for all supported equipment. If you have a generic iOS device, you need screenshots from the iPad version as well. I had never tested on iPad, so I was not prepared for the user view. I will need to update the iPad design.
+ c. App icon in bunches of sizes. After you make an icon, [get resized icons by magic](http://appiconmaker.co/). NOTE: if you don't start with a square image, your resized images will not be the right size.
+ d. Copyright: "The name of the person or entity that owns the exclusive rights to your app, preceded by the year the rights were obtained (for example, "2008 Acme Inc."). Do not provide a URL."
+ e. Rating: You have to fill in answers to questions and it will suggest your rating.
+ e. Copy: 
+     1. Promotional Text: "Promotional text lets you inform your App Store visitors of any current app features without requiring an updated submission. This text will appear above your description on the App Store for customers with devices running iOS 11 or later."
+     2. Description: "A description of your app, detailing features and functionality. It will also be used for your Apple Watch app."
+     3. keywords
+     4. App review notes: "Additional information about your app that can help during the review process. Include information that may be needed to test your app, such as app-specific settings." This is the description that you would give someone if you were describing how your application works to someone who needs to reconstruct it. 
+
+Once you finally get past the [Submit For Review], you get to answer more questions. The scariest one is: "
+Does this app use the Advertising Identifier (IDFA)?
+The Advertising Identifier (IDFA) is a unique ID for each iOS device and is the only way to offer targeted ads. Users can choose to limit ad targeting on their iOS device....Ensure that you select the correct answer for Advertising Identifier (IDFA) usage. If your app does contain the IDFA and you select No, the binary will be permanently rejected and you will have to submit a different binary."
+
+Here is the description that I wrote for Crushing It:
+"Crushing It is a free app that helps you to simply track things that you want to do repeatedly. Set any number of goals and see yourself crush them all over time. 
+
+What can you do with Crushing It?
+
+- Set simple goals and track your progress
+- Repeat goals - when you reach your goal, restart
+- Avoid distracting kitchen sink features
+- Get inspired by small motivational quotes
+
+Crush each step towards your goals with Crushing It.
+
+We plan to build more features in future versions. This simple version of the application is already helping our team."
+
+Here are the notes that I wrote for Crushing it: "This application does not require sign in and stores all data on the device. 
+- Create a new goal by tapping "New" - give it a name, a target, and, if you've already done any, set it. [ If you leave these blank, your goal is named "Unnamed Goal" with a target of 0 and a done of 0, so if all are blank when you get back to the main table, you will have met your goal.]
+- The table of goals includes the name, the current start date, and two visible indicators of how done the goal is. First, there is a label containing the percent complete and the target. Second, the background color of the goal gets darker as the goal gets closer to completion. 
+- Users can change the color of the application. This does not change the application icon or the application launch screen.
+- There can be multiple iterations of a goal, and while it is not visible yet, the app tracks how many times a goal has been completed and the last time something happened for a goal. Every time a goal is met, the app asks the user if they want to restart (will log a completion and update the current start date). If they don't want to restart, the user can edit the goal (maybe to change the target), or delete the goal. If the goal is deleted, all records of that goal are also deleted. "
+
+## Link to work
