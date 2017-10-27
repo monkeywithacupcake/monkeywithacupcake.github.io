@@ -44,9 +44,9 @@ cardsize: large
      3. keywords
      4. App review notes: "Additional information about your app that can help during the review process. Include information that may be needed to test your app, such as app-specific settings." This is the description that you would give someone if you were describing how your application works to someone who needs to reconstruct it. 
 
-Once you finally get past the [Submit For Review], you get to answer more questions. The scariest one is: "
-Does this app use the Advertising Identifier (IDFA)?
-The Advertising Identifier (IDFA) is a unique ID for each iOS device and is the only way to offer targeted ads. Users can choose to limit ad targeting on their iOS device....Ensure that you select the correct answer for Advertising Identifier (IDFA) usage. If your app does contain the IDFA and you select No, the binary will be permanently rejected and you will have to submit a different binary."
+Once you finally get past the [Submit For Review], you get to answer more questions. The scariest one is: "Does this app use the Advertising Identifier (IDFA)? The Advertising Identifier (IDFA) is a unique ID for each iOS device and is the only way to offer targeted ads. Users can choose to limit ad targeting on their iOS device....Ensure that you select the correct answer for Advertising Identifier (IDFA) usage. If your app does contain the IDFA and you select No, the binary will be permanently rejected and you will have to submit a different binary."
+
+Note that submitting your app for beta testing requires review, just not as thorough of a review as submitting the app for the app store. [Update: I did both at the same time and got approval to beta testing within 12 hours.] 
 
 Here is the description that I wrote for Crushing It:
 "Crushing It is a free app that helps you to simply track things that you want to do repeatedly. Set any number of goals and see yourself crush them all over time. 
