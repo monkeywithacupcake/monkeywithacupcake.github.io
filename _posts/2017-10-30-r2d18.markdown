@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Round 2 Day 18 of 100 Days of Code"
+categories: 100DaysofCode
+image: compare_simulators_travel.png
+cardsize: large
+---
+
+I had quite a struggle using my own device to test applications today with the combination of Xcode 9 and iOS 11.0.3. I had been successful in the past with Xcode 8.3 and (I'm pretty sure) iOS 10.3.1. I finally got it to work after restarting my computer - that seemed a little drastic, but it did the trick.
+
+## Today's Progress
++ I made slightly more progress on removing the storyboard from the Travel Together application. Since I can't upload it to iTunes Connect while the Firebase error remains, I worked on getting it to a better place for managing changes with git. With the storyboard, there are about a million changes made by Xcode everytime. I cannot make sense of them. Progress is slow because I am also attempting not to use Firebase, at least at first here, while I rebuild. It looks super terrible because everything was all entangled with the data classes and firebase and the storyboard before. I've made it through two screens and I'm working on the trip list now. 
+
+![With and without storyboard](/images/compare_simulators_travel.png){:class="wide-img"} 
+
+
+## Thoughts  
+**I Just Want Things To Work** It's exhausting to work so hard for so little change. When you have a picture in your head of how things go and then it takes days of fiddling to get there...that is just exhausting. However, every little positive along the way is reason to celebrate. I love those. Whoohoo - that one thing works...Woohoo - that button is where I wanted it. Woohoo - the data are coming in right. All the other stuff, that takes willpower to just keep trying. 
+
+## Link to work
