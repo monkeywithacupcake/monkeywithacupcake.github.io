@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Round 2 Day 19 of 100 Days of Code"
+categories: 100DaysofCode
+image: welcome_appstore_crushing.png
+cardsize: large
+---
+
+Halloween! It's been a thrilling day (see what I did there?). Crushing It was welcomed to the Apple App Store, I resolved an issue with Firebase, and I uploaded a mostly non-working version of my Travel app to the App Store to begin device testing and get comfortable with the process. Version 1.0 (1).
+
+## Today's Progress
++ I tested out some JSON codable and decodable code for reading in and managing my trip data. This is essential as I look for a potential alternate to using Firebase for my backend.
++ I recoded a table view as a collection view to make space between items. As a collection view, each item is like a card and appears more distinct. I like it.
++ I submitted my rewritten and nearly empty Travel application to iTunes Connect so that I can practice internal testing each build.
+
+
+## Link to work
+[Crushing it in the App Store](https://itunes.apple.com/us/app/crushing-it/id1301094512?mt=8)
