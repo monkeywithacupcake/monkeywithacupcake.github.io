@@ -2,8 +2,6 @@
 layout: post
 title:  "Round 2 Day 19 of 100 Days of Code"
 categories: 100DaysofCode
-image: welcome_appstore_crushing.png
-cardsize: large
 ---
 
 Halloween! It's been a thrilling day (see what I did there?). Crushing It was welcomed to the Apple App Store, I resolved an issue with Firebase, and I uploaded a mostly non-working version of my Travel app to the App Store to begin device testing and get comfortable with the process. Version 1.0 (1).
