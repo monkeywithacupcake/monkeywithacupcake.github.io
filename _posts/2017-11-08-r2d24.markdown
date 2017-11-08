@@ -10,6 +10,7 @@ I created a glorified flashcard app that my kiddo loves to use to study a bunch 
 
 ## Today's Progress
 + I finished a rough working application for my kiddo and sent it to iTunes Connect - the app is on my phone now as an internal tester, and the kiddo loves it. I hope to build it out and make it more useful before the end of the semester.
+![quiz app](/images/20171108_quiz.png){:class="wide-img"}
 
 + I had a JSON breakthrough and I can finally use the Swif4 codable to read my dynamic keys as ids for my classes. The code is pretty ugly, though, and I'm still missing my nested data. I posted a question on SO. 
 
