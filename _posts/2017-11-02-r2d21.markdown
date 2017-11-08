@@ -22,14 +22,14 @@ if #available(iOS 11.0, *) {
     stackView.trailingAnchor.constraint(equalTo: guide.trailingAnchor, constant: -wSpacing).isActive = true
     stackView.leadingAnchor.constraint(equalTo: guide.leadingAnchor, constant: wSpacing).isActive = true
     stackView.topAnchor.constraint(equalTo: guide.topAnchor, constant: hSpacing).isActive = true
-    stackView.bottomAnchor.constraint(equalTo: guide.bottomAnchor, constant: hSpacing).isActive = true
+    stackView.bottomAnchor.constraint(equalTo: guide.bottomAnchor, constant: -hSpacing).isActive = true
 }
 else {
     let margins = view.layoutMarginsGuide
     stackView.trailingAnchor.constraint(equalTo: margins.trailingAnchor, constant: -wSpacing).isActive = true
     stackView.leadingAnchor.constraint(equalTo: margins.leadingAnchor, constant: wSpacing).isActive = true
     stackView.topAnchor.constraint(equalTo: margins.topAnchor, constant: hSpacing).isActive = true
-    stackView.bottomAnchor.constraint(equalTo: margins.bottomAnchor, constant: hSpacing).isActive = true
+    stackView.bottomAnchor.constraint(equalTo: margins.bottomAnchor, constant: -hSpacing).isActive = true
 }
 {% endhighlight %}
 
