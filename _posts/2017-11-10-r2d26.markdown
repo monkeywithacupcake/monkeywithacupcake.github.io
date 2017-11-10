@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Round 2 Day 26 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+Coding right the first time is so hard but so important - rework is painful. As a beginner, rework is the main way that I internalize lessons.
+
+## Today's Progress
++ I finally got the JSON for the Travel Together application to decode using the Swift decodable method all the way down to the nested trip members and nested allergies.
++ Began working (again) on invites for the travel application. This has been my nemesis for a long time, but I made some progress. It is quite complicated. You must: 
+    1 enable Dynamic Links on Firebase
+    2 have a team ID (also called an App Prefix) - which means that you must have a developer account
+    3 use a valid app store app id, doesn't have to be for the app
+    4 set up a provisioning profile allowing associated domains in your app
+    5 simulate or run your app on an actual device (won't work on simulator)
+
+    ++ within this process, I got a link to open my app if installed
+    ++ then, I got the appstore to open if my app is not installed
+
++ Read all of the Firebase Dynamic Link and Invite documentation, watched all of the associated Youtube videos. Attempted to understand and create an invitation from my application, no dice
++ Began reading Branch.io documentation. Downloaded and played with the [Branchster Monster Factory](https://itunes.apple.com/us/app/id917737838) which is thankfully [open source and avail on GitHub](https://github.com/BranchMetrics/Branch-Example-Deep-Linking-Branchster-iOS). Attempted to recreate and understand how the links are created within the application and how to apply that to my more complex use case. My head is a little exploding trying to figure out how the links are constructed based on the Objective C code in the open source example application. Feeling very not smart.
+
+## Thoughts  
+**Programming is hard** Well, some programming is easy. Switching between languages and figuring out the nuances behind the relatinships in the languages, that is hard. 
+
+## Link to work
+I don't have any work to share, but I did create [this neat monster](https://branchster.app.link/l2q5N7aiXH)
