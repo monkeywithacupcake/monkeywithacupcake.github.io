@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Round 2 Day 27 of 100 Days of Code"
+categories: 100DaysofCode
+---
+
+I thought I didn't spend much time coding today, but then I reviewed my logs, and I got 4.5 hours in today with code and logs. That's pretty good considering I got to go on a fun glass blowing adventure and popped in to a neighbor's party.
+
+## Today's Progress
++ I attempted to copy the canned code from Branch.io to make a link generate in my app. No dice. I know this is a super short bullet point, but I tried doing it six ways from Sunday...and they all basically boil down to this.
+
+## Thoughts  
+**Coders are not antisocial weirdos** I keep meeting kind, creative, considerate, sharing people in the coding community. I love these people. They make all the crazy worth it.
+
+## Link to work
+Not today.
