@@ -12,7 +12,7 @@ Started: 2017-10-12
   <div style = "width: 53%; height: 8px; background-color: #3a7f57;">
   </div>
 </div>
-53 of 100 Days of Code Complete
+61 of 100 Days of Code Complete
 
 + **Hacker Rank Algorithms**
 Started 2017-07-05
