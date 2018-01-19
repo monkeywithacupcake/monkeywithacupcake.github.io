@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 date_format: "%Y-%m-%d"
-permalink: none 
+permalink: none
 title: Monkey With A Cupcake
 #email: your-email@example.com
 description: > # this means to ignore newlines until "baseurl:"
-  A journey through 100 Days of Code for monkeywithacupcake
+   I've moved
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://monkeywithacupcake.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 repository: monkeywithacupcake/monkeywithacupcake.github.io
@@ -32,9 +32,9 @@ theme: minima
 
 
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
   #- jekyll-paginate-v2
-  
+
 # Collections
 #collections:
 #  round1:
@@ -47,7 +47,7 @@ plugins:
 #    longname: "Round 2"
 #    description: "Posts from my second trip through 100 Days of Code, started 12 OCT 2017"
 #    permalink: /:collection/:path/
-#    
+#
 # Plugin: Pagination (jekyll-paginate-v2)
 #pagination:
   #collection   :  'round1'

@@ -7,9 +7,9 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">100 Days of Code Progress</h1>
-    
- 
+  <h1 class="page-heading">This monkey's 100 Days of Code Progress is no longer tracked here</h1>
+
+  <a href="http://jessachandler.com/code/">find me at my new home</a>
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
@@ -25,15 +25,12 @@ layout: default
               {{ words | plus: 250 | divided_by: 180 | append: " min read" }}
             {% endunless %}
           </span>
-              {{ post.excerpt | strip_html | truncatewords:30 }}        
+              {{ post.excerpt | strip_html | truncatewords:30 }}
       </li>
     {% endfor %}
 
   </ul>
 
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 
 </div>
-
-
