@@ -3,7 +3,7 @@ title: "Cheers!"
 image: "jess.jpg"
 color1: "#66B2FF"
 color2: "#AAA694"
-angle: 250
+angle: 270
 links:
   - label: LinkedIn
     url: "https://linkedin.com/jessachandler"
