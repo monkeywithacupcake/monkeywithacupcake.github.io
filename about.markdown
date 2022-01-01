@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Jess. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- I like french fries and coffee. Neither mail well. 
+- I love my doggo. 
+- I'm probably outside.
 
 
-[jekyll-organization]: https://github.com/jekyll
+Apoligies for the mess. This is a no frills site. I have spent the past few years telling myself that I will build a beautiful site that I like and magical systems that work for reducing the friction between me and writing. And yet, what I have done is....not write. This site will remain this boring until at least April 1, 2022. This is my public commitment to not do anything until that time besides, write. 
