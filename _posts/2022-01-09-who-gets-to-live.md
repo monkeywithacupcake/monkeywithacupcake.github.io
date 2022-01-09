@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Who gets to live - a policy rambling"
+date: 20220-01-09
+categories: policy
+---
+
+I'm thinking a lot about who gets to live. 
+
+_tl:dr_ This devolves pretty quickly into me trying to understand how much of public policy and politics I have to pay attention to.
+
+Like, if I'm poor, maybe homeless, I'm not supposed to exist at all, right? Am I in the way? I can't pitch a tent anywhere; I can't wash myself anywhere; I can't get medical care I need. Do you want me to die? 
+Really, for the people who oppose homeless encampments and also refuse to allocate our public monies for care to the poor - do you want them to die? Would you protest rounding them up and executing the poor? Would you be willing to do the deed yourself? Would that actually be more humane? How can we call ourselves a society when we lack compassion for all members?
+
+I've been thinking back to a class that I took in grad school - one of those classes you have to take, where you read stuffy old books and try to discuss big thoughts - yeah, ethics, that one. 
+
+Well, a couple of the books - by Kant and Rawls, at least, discussed the problem that we have when we are in a certain strata of society - mainly that we have the concerns of someone in our position, rather than the concerns of the whole of society. Both, I think, argued that we should attempt to approach each public decision as if, we might be in any strata. We might be any of the people in our community. If I were the baker, would this policy be good for me? If I were the child, would this policy be good for me? If I were the beggar, would this policy be good for me? 
+
+I speculate that we have outsourced all of that thinking to consultants and journalists. We assume that our elected officials or favorite news talkers will tell us if something looks fishy. But, alas, the consultants are not paid by us or loyal to us, and the journalists have quite a bit on their plates already and are also not experts in everything. Hence, the consultants - they come up with models and plans and dissect some things and leave others alone. Then, they produce a report. No one reads the report, but a couple of the bullet points might get picked up by journalists and politicians who will argue for or against the policy they were already for or against. 
+
+And, gosh, I hate that line of thinking. Because, it is big. It is a big deal to know that we actually have to do the work of paying attention to what is happening. We have to pay attention because it is real life. 
+
+**Where does my responsibility end the the collective responsibiity begin?**
+
+Let's start with roads. (_maybe I'll get back to lives_)
+
+I live on a shared, private drive/road - those who share it, collectively, pay dues that accrue and are used to maintain our road and our shared water. Since the funds are lumped together, I can't say how much is for road and how much for water, but more is for water. This is 100% me, 0% county, 0% state, 0% federal. I don't think anyone would argue that this is the responsibility of some other level of government. As a collective, our group has decided to pay equally in to the pool of money for water and road. 
+
+When we leave the private drive, we are on a road in unincorporated Kitsap County. Kitsap County collects money from sales (2.5% and property taxes). This road is technically 0% me, 100% county, 0% state, 0% federal. I give the county some of my money through taxes, and we (the county) pool our money together to maintain this road (and all the others...and do other stuff, but we are talking about roads here). I don't think anyone would expect me to maintain this road. However, there now is some unfairness. While I use this road every time I leave my house, some people in the County may have never driven on it. Should they be exempt from paying for this road? In a **perfect** economic solution, we could put tollbooths on each entrance to the road and charge users a fee ( we then need to determine the fee - maybe it is equal to the estimated daily maintenance cost of the road divided by the number of estimated daily users ) - or some other tolling situation that only charges the users. Would we prefer that? The people who don't use my road might argue for it until they realize that the same thing might be done for their road. Then, we have some new pain point of having to decide which way to go based on how much it will cost. note: this is a real problem for users of public transit. (ack, I can't foll into the transit rabbit hole). But, now, my perfect solution is a little less perfect because we have tollbooths everywhere, and the traffic is moving slowly. Okay, we switch to electronic tolling that measures how much of each road you use and charges you for that for the roads - no more taxes for roads. What a lovely and fair system! Three cheers! _Oh, wait, maybe it is not so great_ because now, we see that the people who drive a lot are paying more, and they are angry at those high bills for roads. Shouldn't the state help reduce these costs? How come their road bill is so high? We need road bill relief. Alas, the people who drive the most might be the people with large houses who commute a bunch, or they might be the repairman trying to go door to door to help little grandmas with their furnace. The plight will take on the face of the latter as it is funded by the former. And now, somehow, we have argued that the state should pay for roads, and now it will be fair. *Why are my state taxes getting higher? stupid government and their stupid taxes!* I think I could keep going with this, but the point is that **WE ARE** the government. If I wasn't paying attention at first, I would just assume that _someone would have told me_ that the tollbooth idea was not going to work out. But, maybe the math worked out, and all of the journalists were too busy covering the latest emergency. < _this entire situation is fictitious_ >
+
+Our choices determine what is funded and how it is funded. What is available and how it is available. When we are selfish, and we all have to be sometimes, we may save ourselves money or time in the short run, but cost ourselves in the long term. It is expensive mentally and emotionally for our lives to have friction. It is cheap in dollars to not fix things. Systematic problems only get bigger when we ignore them, like potholes. If I hold off fixing a pothole until your car breaks, that might have been cheaper for me, but very expensive for you...and possibly for me, in the long run, if you successfully sue me for damages. 
+
+
+
+ I have lost my thread of reasoning, but I will get back to it, somehow. This feels important. As there is no way that I could be intimitely familiar with all policies that impact my community and also go about my life. 
