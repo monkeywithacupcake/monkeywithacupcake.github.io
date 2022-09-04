@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Annie! at KCMT"
-date: 20220-01-24
+date: 2022-01-24
 categories: soc
 ---
 
