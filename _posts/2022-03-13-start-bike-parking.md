@@ -58,4 +58,4 @@ leaflet(df) %>% addTiles(
                    radius = 7,  fillOpacity = 0.7, fillColor = "#D8BFD8",
                    popup = ~POPUP) 
 
-{% end highlight %}
+{% endhighlight %}
