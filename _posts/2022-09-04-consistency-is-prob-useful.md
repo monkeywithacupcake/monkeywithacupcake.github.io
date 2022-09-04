@@ -25,3 +25,5 @@ Based on everything I have read on habits and self-change, I should stack writin
 I think I am going to try to move to just after dinner. Eat, clean up, write. Just a few minutes. This seems doable. I shall start tonight. Hopefully something good comes of this plan. 
 
 Re-reading my "Let's get this party started" post at the beginning of the year, I have mostly kept to my claims for the year..except that writing thing. And, my backpacking trips have been not solo...but I did not expect to give up my car or for my partner to want to go outside. Backpacking solo would now require some serious biking, and my tent does not fit in my panniers...a problem for future me. 
+
+I am going to go through my drafts and see what I can get pushed to fill in the gaps in the last few months. 
