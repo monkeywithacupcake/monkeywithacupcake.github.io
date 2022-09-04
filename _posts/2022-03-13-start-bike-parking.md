@@ -23,11 +23,9 @@ On Saturday, I kept my eyes peeled for bike racks and took a few pictures.
 
 By Saturday night, there was a map - but it was only interactive on my own computer. I posted a screenshot on github in the readme. 
 
-Today, I started down the path of using github pages to post an r blog that could keep the map updated. I had to reinstall ruby; it was a whole thing. But, I realized that a faster way would just be to through the map up on RPubs. The whole point was to keep me from spending time buildint another stupid website. 
+Today, I started down the path of using github pages to post an r blog that could keep the map updated. I had to reinstall ruby; it was a whole thing. But, I realized that a faster way would just be to through the map up on RPubs. The whole point was to keep me from spending time building another stupid website. 
 
-On the plus side, the interactive map is up on RPubs. On the downside, there is no way to update/refresh RPubs, so I have to delete it and repost a "new document" at RPubs every time I make a change. 
-
-I don't think it will be that big of a deal. And, done is sooooo much better than in my head. 
+On the plus side, the interactive map is up on RPubs. 
 
 It's dead simple code. You can see the interactive map on RPubs [kitsap-bike-parking](https://rpubs.com/monkeywithacupcake/kitsap-bike-parking)
 
