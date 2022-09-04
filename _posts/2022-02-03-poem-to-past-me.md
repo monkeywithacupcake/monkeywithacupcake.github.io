@@ -7,19 +7,19 @@ categories: soc
 
 ** A Poem to Past Me **
 
-It doesn't matter
-The world won't shatter
-if you make a mistake
-that becomes the way
-it becomes the path
-there is no other now
-you will figure out how
-to move 
-to continue
-in this chosen direction
-and look back with affection
-at the choices you made
-when you were afraid
+It doesn't matter  
+The world won't shatter  
+if you make a mistake  
+that becomes the way  
+it becomes the path  
+there is no other now  
+you will figure out how  
+to move   
+to continue  
+in this chosen direction  
+and look back with affection  
+at the choices you made  
+when you were afraid  
 
 
 **cringe..hit publish quick**
